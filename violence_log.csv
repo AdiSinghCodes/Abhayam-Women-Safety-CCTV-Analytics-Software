@@ -1,0 +1,2166 @@
+Timestamp,Action Detected,Male Count,Female Count,Location
+2024-12-01 02:00:53,Lone female detected,0,1,afraz
+2024-12-01 02:04:51,Lone female detected,0,1,1
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:26:23,Violence against a woman,3,2,110
+2024-12-01 02:28:06,Lone female detected,1,1,2
+2024-12-01 02:32:18,Violence against a woman,1,1,1
+2024-12-01 02:38:02,Violence against a woman,1,1,afraz
+2024-12-01 12:34:41,Violence against a woman,1,1,1
+2024-12-01 12:43:48,Lone female detected,1,1,Unknown
+2024-12-01 12:43:59,Lone female detected,0,1,Unknown
+2024-12-01 12:44:19,Violence against a woman,2,1,Unknown
+2024-12-01 12:44:27,Lone female detected,0,1,Unknown
+2024-12-01 12:44:57,Lone female detected,0,1,Unknown
+2024-12-01 12:47:32,Lone female detected,1,1,1
+2024-12-01 12:53:51,Lone female detected,0,1,1
+2024-12-01 13:00:26,Violence against a woman,0,1,1
+2024-12-01 13:02:40,Lone female detected,0,1,1
+2024-12-01 13:17:14,Violence against a woman,2,2,1
+2024-12-01 13:17:24,Lone female detected,0,1,1
+2024-12-01 13:17:31,Lone female detected,0,1,1
+2024-12-01 13:17:38,Lone female detected,0,1,1
+2024-12-01 13:17:45,Lone female detected,0,1,1
+2024-12-01 13:17:51,Lone female detected,0,1,1
+2024-12-01 13:17:57,Lone female detected,0,1,1
+2024-12-01 13:18:03,Lone female detected,0,1,1
+2024-12-01 13:26:59,Violence against a woman,3,2,1
+2024-12-01 13:27:08,Lone female detected,0,1,1
+2024-12-01 13:27:14,Lone female detected,0,1,1
+2024-12-01 13:27:21,Lone female detected,0,1,1
+2024-12-01 13:27:27,Lone female detected,0,1,1
+2024-12-01 16:12:59,Violence against a woman,14,2,Bhandup
+2024-12-01 16:13:06,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:09,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:13,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:17,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:29,Lone female detected,4,1,Bhandup
+2024-12-01 16:13:34,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:40,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:58,Lone female detected,0,1,Bhandup
+2024-12-01 16:14:07,Lone female detected,0,1,Bhandup
+2024-12-04 13:40:45,Violence against a woman,8,2,bhandup
+2024-12-04 13:41:00,Violence against a woman,1,1,bhandup
+2024-12-04 13:41:05,Lone female detected,0,1,bhandup
+2024-12-04 13:41:18,Lone female detected,0,1,bhandup
+2024-12-04 13:41:26,Lone female detected,0,1,bhandup
+2024-12-04 13:41:31,Lone female detected,0,1,bhandup
+2024-12-04 13:41:49,Lone female detected,2,1,bhandup
+2024-12-04 13:41:53,Lone female detected,0,1,bhandup
+2024-12-04 13:42:04,Violence against a woman,4,1,bhandup
+2024-12-04 13:42:08,Lone female detected,0,1,bhandup
+2024-12-04 14:11:50,Violence against a woman,3,2,VIT
+2024-12-04 14:12:18,Lone female detected,0,1,VIT
+2024-12-04 14:12:23,Lone female detected,0,1,VIT
+2024-12-04 14:12:28,Lone female detected,0,1,VIT
+2024-12-04 14:12:38,Violence against a woman,2,1,VIT
+2024-12-04 14:12:44,Lone female detected,0,1,VIT
+2024-12-04 14:12:57,Lone female detected,2,1,VIT
+2024-12-04 14:13:03,Lone female detected,0,1,VIT
+2024-12-04 15:00:32,Violence against a woman,3,1,vidyalankar
+2024-12-04 15:02:16,Lone female detected,0,1,vidyalankar
+2024-12-04 15:14:12,Lone female detected,0,1,Unknown
+2024-12-04 15:15:57,Lone female detected,0,1,vit
+2024-12-04 15:16:14,Lone female detected,0,1,vit
+2024-12-04 15:16:22,Lone female detected,0,1,vit
+2024-12-04 15:16:28,Lone female detected,0,1,vit
+2024-12-04 15:16:36,Lone female detected,0,1,vit
+2024-12-04 15:16:42,Lone female detected,0,1,vit
+2024-12-04 18:49:22,Violence against a woman,4,1,test
+2024-12-04 18:49:33,Lone female detected,0,1,test
+2024-12-04 18:49:44,Violence against a woman,1,1,test
+2024-12-04 18:49:53,Lone female detected,0,1,test
+2024-12-04 18:50:00,Lone female detected,0,1,test
+2024-12-04 18:50:12,Lone female detected,0,1,test
+2024-12-04 18:50:26,Violence against a woman,2,1,test
+2024-12-04 18:50:33,Lone female detected,1,1,test
+2024-12-04 18:50:40,Lone female detected,0,1,test
+2024-12-04 18:50:51,Lone female detected,1,1,test
+2024-12-04 18:51:00,Lone female detected,0,1,test
+2024-12-04 18:51:07,Lone female detected,0,1,test
+2024-12-04 18:51:16,Lone female detected,3,1,test
+2024-12-04 18:51:29,Violence against a woman,1,1,test
+2024-12-04 18:51:38,Lone female detected,0,1,test
+2024-12-04 18:51:48,Lone female detected,0,1,test
+2024-12-04 18:51:56,Lone female detected,2,1,test
+2024-12-04 18:52:03,Lone female detected,0,1,test
+2024-12-04 18:52:09,Lone female detected,0,1,test
+2024-12-04 18:52:18,Violence against a woman,1,1,test
+2024-12-04 18:52:26,Lone female detected,1,1,test
+2024-12-04 18:52:38,Violence against a woman,1,1,test
+2024-12-04 19:51:04,Lone female detected,0,1,test2
+2024-12-04 19:51:15,Violence against a woman,1,1,test2
+2024-12-04 19:51:26,Lone female detected,0,1,test2
+2024-12-04 19:51:36,Lone female detected,1,1,test2
+2024-12-04 19:51:44,Lone female detected,0,1,test2
+2024-12-04 19:51:54,Lone female detected,1,1,test2
+2024-12-04 19:51:59,Violence against a woman,1,1,test2
+2024-12-04 19:52:06,Lone female detected,0,1,test2
+2024-12-04 19:52:10,Lone female detected,0,1,test2
+2024-12-04 19:52:17,Lone female detected,1,1,test2
+2024-12-04 19:52:23,Lone female detected,0,1,test2
+2024-12-04 21:57:40,Violence against a woman,2,1,Unknown
+2024-12-04 21:58:04,Lone female detected,0,1,Unknown
+2024-12-04 21:58:15,Lone female detected,1,1,Unknown
+2024-12-04 21:58:19,Lone female detected,0,1,Unknown
+2024-12-04 21:58:25,Lone female detected,1,1,Unknown
+2024-12-04 22:01:31,Violence against a woman,7,2,helloWorld
+2024-12-04 22:01:46,Violence against a woman,4,1,helloWorld
+2024-12-04 22:01:53,Lone female detected,0,1,helloWorld
+2024-12-04 22:01:57,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:02,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:14,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:19,Lone female detected,0,1,helloWorld
+2024-12-04 23:43:53,Lone female detected,0,1,Unknown
+2024-12-05 11:35:33,Violence against a woman,6,1,Unknown
+2024-12-05 14:32:47,Lone female detected,1,1,12
+2024-12-05 14:33:01,Lone female detected,0,1,12
+2024-12-05 17:12:41,Violence against a woman,2,1,12
+2024-12-05 17:12:50,Violence against a woman,2,1,12
+2024-12-05 17:13:04,Violence against a woman,1,1,12
+2024-12-05 17:13:12,Lone female detected,0,1,12
+2024-12-06 10:22:20,Lone female detected,3,1,aditya
+2024-12-06 17:14:22,Violence against a woman,3,1,aditya
+2024-12-06 20:16:56,Lone female detected,0,1,adi
+2024-12-06 20:17:02,Lone female detected,0,1,adi
+2024-12-06 20:17:05,Lone female detected,0,1,adi
+2024-12-06 20:17:07,Lone female detected,0,1,adi
+2024-12-06 20:17:10,Lone female detected,0,1,adi
+2024-12-06 20:17:12,Lone female detected,0,1,adi
+2024-12-06 20:17:16,Lone female detected,0,1,adi
+2024-12-06 20:17:20,Lone female detected,0,1,adi
+2024-12-06 20:17:39,Violence against a woman,1,1,adi
+2024-12-06 20:17:42,Lone female detected,0,1,adi
+2024-12-06 20:17:45,Lone female detected,0,1,adi
+2024-12-06 20:17:56,Lone female detected,0,1,adi
+2024-12-06 20:18:02,Lone female detected,3,1,adi
+2024-12-06 20:18:11,Lone female detected,3,1,adi
+2024-12-06 20:18:20,Violence against a woman,3,1,adi
+2024-12-06 20:18:25,Lone female detected,1,1,adi
+2024-12-06 20:18:29,Lone female detected,0,1,adi
+2024-12-06 20:18:32,Lone female detected,0,1,adi
+2024-12-06 20:18:35,Lone female detected,0,1,adi
+2024-12-06 20:18:38,Lone female detected,0,1,adi
+2024-12-06 22:21:21,Violence against a woman,1,1,test
+2024-12-06 22:21:38,Lone female detected,0,1,test
+2024-12-06 22:21:41,Lone female detected,0,1,test
+2024-12-06 22:21:45,Lone female detected,0,1,test
+2024-12-06 22:21:51,Lone female detected,0,1,test
+2024-12-06 22:21:58,Lone female detected,3,1,test
+2024-12-06 22:22:03,Lone female detected,3,1,test
+2024-12-06 22:22:07,Lone female detected,3,1,test
+2024-12-06 22:22:11,Violence against a woman,3,1,test
+2024-12-06 22:22:20,Lone female detected,0,1,test
+2024-12-06 22:22:23,Lone female detected,0,1,test
+2024-12-06 22:22:26,Lone female detected,0,1,test
+2024-12-06 22:22:28,Lone female detected,0,1,test
+2024-12-06 22:42:55,Lone female detected,0,1,testing
+2024-12-06 22:43:01,Lone female detected,0,1,testing
+2024-12-06 22:43:03,Lone female detected,0,1,testing
+2024-12-06 22:43:06,Lone female detected,0,1,testing
+2024-12-06 22:43:08,Lone female detected,0,1,testing
+2024-12-06 22:43:10,Lone female detected,0,1,testing
+2024-12-06 22:43:13,Lone female detected,0,1,testing
+2024-12-06 22:43:20,Lone female detected,0,1,testing
+2024-12-06 22:43:23,Lone female detected,0,1,testing
+2024-12-06 22:43:28,Lone female detected,0,1,testing
+2024-12-06 22:43:35,Lone female detected,0,1,testing
+2024-12-06 22:43:42,Lone female detected,0,1,testing
+2024-12-06 22:43:50,Violence against a woman,1,1,testing
+2024-12-06 22:44:08,Lone female detected,3,1,testing
+2024-12-06 22:44:11,Violence against a woman,3,1,testing
+2024-12-06 22:44:16,Lone female detected,2,1,testing
+2024-12-06 22:44:22,Violence against a woman,3,1,testing
+2024-12-06 22:44:26,Lone female detected,3,1,testing
+2024-12-06 22:44:33,Lone female detected,3,1,testing
+2024-12-06 23:07:28,Lone female detected,1,1,shahad
+2024-12-06 23:07:32,Lone female detected,2,1,shahad
+2024-12-06 23:07:37,Violence against a woman,3,1,shahad
+2024-12-06 23:07:41,Violence against a woman,3,1,shahad
+2024-12-06 23:07:45,Violence against a woman,4,2,shahad
+2024-12-06 23:07:59,Lone female detected,0,1,shahad
+2024-12-06 23:08:02,Lone female detected,0,1,shahad
+2024-12-06 23:08:06,Lone female detected,0,1,shahad
+2024-12-06 23:08:08,Lone female detected,0,1,shahad
+2024-12-06 23:08:12,Lone female detected,0,1,shahad
+2024-12-06 23:08:14,Lone female detected,0,1,shahad
+2024-12-06 23:08:23,Lone female detected,3,1,shahad
+2024-12-06 23:08:27,Lone female detected,3,1,shahad
+2024-12-06 23:08:30,Lone female detected,1,1,shahad
+2024-12-06 23:14:48,Lone female detected,3,1,ui
+2024-12-06 23:14:52,Violence against a woman,3,1,ui
+2024-12-06 23:14:55,Lone female detected,3,1,ui
+2024-12-06 23:14:59,Lone female detected,3,1,ui
+2024-12-06 23:15:02,Violence against a woman,3,1,ui
+2024-12-06 23:15:34,Violence against a woman,1,1,ui
+2024-12-06 23:15:36,Lone female detected,0,1,ui
+2024-12-06 23:15:40,Lone female detected,0,1,ui
+2024-12-06 23:15:45,Lone female detected,0,1,ui
+2024-12-06 23:15:48,Lone female detected,0,1,ui
+2024-12-06 23:15:54,Lone female detected,3,1,ui
+2024-12-06 23:15:59,Lone female detected,3,1,ui
+2024-12-06 23:16:03,Lone female detected,3,1,ui
+2024-12-06 23:16:07,Violence against a woman,3,1,ui
+2024-12-06 23:22:44,Violence against a woman,5,1,let
+2024-12-06 23:23:09,Violence against a woman,1,1,let
+2024-12-06 23:23:22,Violence against a woman,1,1,let
+2024-12-06 23:23:46,Violence against a woman,1,1,let
+2024-12-06 23:23:49,Lone female detected,1,1,let
+2024-12-06 23:23:54,Violence against a woman,2,1,let
+2024-12-06 23:23:56,Lone female detected,2,1,let
+2024-12-06 23:23:58,Violence against a woman,3,1,let
+2024-12-06 23:24:15,Violence against a woman,1,1,let
+2024-12-06 23:32:55,Violence against a woman,2,1,qw
+2024-12-06 23:33:03,Lone female detected,2,1,qw
+2024-12-06 23:33:06,Lone female detected,2,1,qw
+2024-12-06 23:33:08,Lone female detected,2,1,qw
+2024-12-06 23:33:10,Lone female detected,1,1,qw
+2024-12-06 23:33:13,Violence against a woman,1,1,qw
+2024-12-06 23:33:15,Violence against a woman,1,1,qw
+2024-12-06 23:33:25,Lone female detected,2,1,qw
+2024-12-06 23:33:33,Lone female detected,0,1,qw
+2024-12-06 23:34:13,Lone female detected,0,1,qw
+2024-12-06 23:34:15,Lone female detected,0,1,qw
+2024-12-06 23:34:21,Lone female detected,0,1,qw
+2024-12-06 23:34:23,Violence against a woman,2,1,qw
+2024-12-06 23:34:33,Violence against a woman,0,1,qw
+2024-12-06 23:34:34,Lone female detected,0,1,qw
+2024-12-06 23:34:37,Violence against a woman,2,1,qw
+2024-12-06 23:34:39,Violence against a woman,2,1,qw
+2024-12-06 23:34:40,Violence against a woman,1,1,qw
+2024-12-06 23:34:49,Lone female detected,2,1,qw
+2024-12-06 23:35:10,Violence against a woman,2,1,qw
+2024-12-06 23:35:16,Violence against a woman,8,1,qw
+2024-12-06 23:35:19,Violence against a woman,2,1,qw
+2024-12-06 23:35:23,Lone female detected,0,1,qw
+2024-12-06 23:35:25,Lone female detected,0,1,qw
+2024-12-06 23:35:27,Violence against a woman,2,1,qw
+2024-12-06 23:35:30,Violence against a woman,2,2,qw
+2024-12-06 23:35:32,Violence against a woman,2,1,qw
+2024-12-11 21:32:24,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:32:39,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:32:52,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:33:22,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:33:41,Violence against a woman,1,2,afrazeshanika
+2024-12-11 21:33:57,Violence against a woman,1,2,afrazeshanika
+2024-12-11 21:34:11,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:34:25,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:34:39,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:35:24,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:35:44,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:36:00,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:36:17,Lone female detected,1,1,afrazeshanika
+2024-12-11 21:36:34,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:40:17,Violence against a woman,6,1,afrazeshanika
+2024-12-11 21:40:49,Violence against a woman,6,2,afrazeshanika
+2024-12-11 21:41:09,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:41:34,Violence against a woman,3,2,afrazeshanika
+2024-12-11 21:42:01,Violence against a woman,4,2,afrazeshanika
+2024-12-11 21:42:43,Violence against a woman,5,1,afrazeshanika
+2024-12-11 21:43:15,Violence against a woman,4,2,afrazeshanika
+2024-12-11 21:44:09,Violence against a woman,8,1,afrazeshanika
+2024-12-11 21:44:41,Violence against a woman,8,1,afrazeshanika
+2024-12-11 21:44:52,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:48:51,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:48:59,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:50:51,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:50:59,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:06,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:13,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:20,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:27,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:35,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:43,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:50,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:51:57,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:04,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:13,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:20,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:27,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:36,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:52:44,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:54:56,Violence against a woman,4,1,afrazeshanika
+2024-12-11 21:55:11,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:55:19,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:55:28,Lone female detected,0,1,afrazeshanika
+2024-12-11 21:55:46,Violence against a woman,2,2,afrazeshanika
+2024-12-11 21:55:57,Violence against a woman,1,1,afrazeshanika
+2024-12-11 21:56:18,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:56:58,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:57:14,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:57:30,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:57:45,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:57:59,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:58:13,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:58:26,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:58:41,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:58:54,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:59:09,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:59:23,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:59:37,Violence against a woman,2,1,afrazeshanika
+2024-12-11 21:59:52,Violence against a woman,2,1,afrazeshanika
+2024-12-11 22:00:07,Violence against a woman,2,1,afrazeshanika
+2024-12-11 22:00:22,Violence against a woman,2,1,afrazeshanika
+2024-12-11 22:00:38,Violence against a woman,2,1,afrazeshanika
+2024-12-11 22:00:54,Violence against a woman,2,1,afrazeshanika
+2024-12-12 01:16:46,Lone female detected,1,1,adityaa
+2024-12-12 01:53:26,Lone female detected,0,1,adityaa
+2024-12-12 01:53:38,Lone female detected,0,1,adityaa
+2024-12-12 02:20:24,Violence against a woman,4,2,adityaa
+2024-12-12 07:29:38,Violence against a woman,4,2,adityaa
+2024-12-12 07:29:51,Violence against a woman,1,1,adityaa
+2025-01-31 08:49:17,Lone female detected,0,1,Unknown
+2025-01-31 08:49:28,Lone female detected,0,1,Unknown
+2025-01-31 09:00:19,Lone female detected,0,1,Unknown
+2025-01-31 09:00:47,Lone female detected,0,1,Unknown
+2025-01-31 09:05:18,Violence against a woman,1,1,Unknown
+2025-01-31 09:05:30,Violence against a woman,0,1,Unknown
+2025-01-31 09:05:38,Lone female detected,0,1,Unknown
+2025-01-31 09:05:53,Lone female detected,0,1,Unknown
+2025-01-31 09:06:01,Lone female detected,0,1,Unknown
+2025-01-31 09:08:16,Lone female detected,0,1,Unknown
+2025-01-31 09:08:23,Lone female detected,0,1,Unknown
+2025-01-31 09:08:33,Violence against a woman,1,1,Unknown
+2025-01-31 09:08:45,Lone female detected,0,1,Unknown
+2025-01-31 09:08:52,Lone female detected,0,1,Unknown
+2025-01-31 09:08:58,Lone female detected,0,1,Unknown
+2025-01-31 09:16:25,Lone female detected,0,1,Unknown
+2025-01-31 09:17:00,Lone female detected,0,1,Unknown
+2025-01-31 09:17:22,Lone female detected,1,1,Unknown
+2025-01-31 09:17:30,Lone female detected,0,1,Unknown
+2025-01-31 09:17:37,Lone female detected,0,1,Unknown
+2025-01-31 09:17:48,Lone female detected,0,1,Unknown
+2025-01-31 09:53:40,Lone female detected,1,1,Unknown
+2025-01-31 09:53:54,Violence against a woman,1,1,Unknown
+2025-01-31 09:54:09,Lone female detected,0,1,Unknown
+2025-01-31 09:54:27,Lone female detected,1,1,Unknown
+2025-01-31 09:54:37,Lone female detected,0,1,Unknown
+2025-01-31 12:03:14,Lone female detected,0,1,Unknown
+2025-01-31 12:03:21,Lone female detected,0,1,Unknown
+2025-01-31 12:03:24,Lone female detected,0,1,Unknown
+2025-01-31 12:03:30,Lone female detected,0,1,Unknown
+2025-01-31 12:03:33,Lone female detected,0,1,Unknown
+2025-01-31 12:03:36,Lone female detected,0,1,Unknown
+2025-01-31 12:03:39,Lone female detected,0,1,Unknown
+2025-01-31 12:03:42,Lone female detected,0,1,Unknown
+2025-01-31 12:03:46,Lone female detected,3,1,Unknown
+2025-01-31 12:03:50,Lone female detected,3,1,Unknown
+2025-01-31 12:03:54,Violence against a woman,3,1,Unknown
+2025-01-31 12:04:02,Lone female detected,0,1,Unknown
+2025-01-31 12:04:05,Lone female detected,0,1,Unknown
+2025-01-31 12:04:12,Lone female detected,1,1,Unknown
+2025-01-31 12:04:14,Lone female detected,0,1,Unknown
+2025-01-31 12:04:17,Lone female detected,0,1,Unknown
+2025-01-31 12:06:15,Lone female detected,0,1,Unknown
+2025-01-31 12:06:25,Violence against a woman,1,1,Unknown
+2025-01-31 12:06:29,Violence against a woman,1,1,Unknown
+2025-01-31 12:06:33,Lone female detected,1,1,Unknown
+2025-01-31 12:06:35,Violence against a woman,1,1,Unknown
+2025-01-31 12:06:40,Lone female detected,0,1,Unknown
+2025-01-31 12:06:44,Violence against a woman,1,1,Unknown
+2025-01-31 12:06:48,Lone female detected,0,1,Unknown
+2025-01-31 12:06:53,Lone female detected,0,1,Unknown
+2025-01-31 12:06:56,Lone female detected,0,1,Unknown
+2025-01-31 12:07:00,Lone female detected,0,1,Unknown
+2025-01-31 12:07:05,Lone female detected,3,1,Unknown
+2025-01-31 12:07:11,Lone female detected,3,1,Unknown
+2025-01-31 12:07:15,Violence against a woman,3,1,Unknown
+2025-01-31 12:15:49,Violence against a woman,1,1,Unknown
+2025-01-31 12:15:59,Lone female detected,1,1,Unknown
+2025-01-31 12:16:03,Lone female detected,0,1,Unknown
+2025-01-31 12:16:08,Violence against a woman,1,1,Unknown
+2025-01-31 12:16:12,Lone female detected,0,1,Unknown
+2025-01-31 12:16:14,Lone female detected,0,1,Unknown
+2025-01-31 12:16:17,Lone female detected,0,1,Unknown
+2025-01-31 12:16:20,Lone female detected,0,1,Unknown
+2025-01-31 12:16:23,Lone female detected,0,1,Unknown
+2025-01-31 12:16:27,Violence against a woman,3,1,Unknown
+2025-01-31 12:16:31,Lone female detected,3,1,Unknown
+2025-01-31 12:16:37,Lone female detected,3,1,Unknown
+2025-01-31 12:18:43,Lone female detected,0,1,Unknown
+2025-01-31 12:18:47,Lone female detected,0,1,Unknown
+2025-01-31 12:18:54,Lone female detected,0,1,Unknown
+2025-01-31 12:19:04,Lone female detected,0,1,Unknown
+2025-01-31 12:19:08,Lone female detected,0,1,Unknown
+2025-01-31 12:19:12,Lone female detected,0,1,Unknown
+2025-01-31 12:19:15,Lone female detected,0,1,Unknown
+2025-01-31 12:19:19,Lone female detected,0,1,Unknown
+2025-01-31 12:19:22,Violence against a woman,3,1,Unknown
+2025-01-31 12:19:26,Lone female detected,3,1,Unknown
+2025-01-31 12:19:34,Violence against a woman,3,1,Unknown
+2025-01-31 12:19:48,Lone female detected,0,1,Unknown
+2025-01-31 12:20:06,Lone female detected,0,1,Unknown
+2025-01-31 12:20:10,Lone female detected,1,1,Unknown
+2025-01-31 12:20:13,Lone female detected,0,1,Unknown
+2025-01-31 12:20:16,Lone female detected,0,1,Unknown
+2025-01-31 12:20:21,Violence against a woman,1,1,Unknown
+2025-01-31 12:20:29,Violence against a woman,1,1,Unknown
+2025-01-31 12:20:33,Lone female detected,0,1,Unknown
+2025-01-31 12:20:35,Lone female detected,0,1,Unknown
+2025-01-31 12:20:39,Lone female detected,0,1,Unknown
+2025-01-31 12:20:42,Lone female detected,0,1,Unknown
+2025-01-31 12:20:46,Lone female detected,0,1,Unknown
+2025-01-31 12:20:51,Violence against a woman,3,1,Unknown
+2025-01-31 12:21:00,Violence against a woman,3,1,Unknown
+2025-01-31 12:21:25,Violence against a woman,1,1,Unknown
+2025-01-31 12:21:29,Lone female detected,0,1,Unknown
+2025-01-31 12:21:33,Lone female detected,0,1,Unknown
+2025-01-31 12:21:36,Lone female detected,0,1,Unknown
+2025-01-31 12:21:41,Violence against a woman,1,1,Unknown
+2025-01-31 12:21:49,Lone female detected,0,1,Unknown
+2025-01-31 12:21:52,Lone female detected,0,1,Unknown
+2025-01-31 12:21:55,Lone female detected,0,1,Unknown
+2025-01-31 12:21:57,Lone female detected,0,1,Unknown
+2025-01-31 12:22:04,Lone female detected,1,1,Unknown
+2025-01-31 12:22:08,Lone female detected,3,1,Unknown
+2025-01-31 12:22:12,Violence against a woman,3,1,Unknown
+2025-01-31 12:22:33,Lone female detected,0,1,Unknown
+2025-01-31 12:22:43,Lone female detected,0,1,Unknown
+2025-01-31 12:22:51,Lone female detected,0,1,Unknown
+2025-01-31 12:22:55,Lone female detected,0,1,Unknown
+2025-01-31 12:22:58,Violence against a woman,1,1,Unknown
+2025-01-31 12:23:00,Lone female detected,0,1,Unknown
+2025-01-31 12:23:03,Lone female detected,0,1,Unknown
+2025-01-31 12:23:06,Lone female detected,0,1,Unknown
+2025-01-31 12:23:09,Lone female detected,0,1,Unknown
+2025-01-31 12:23:13,Lone female detected,3,1,Unknown
+2025-01-31 12:23:19,Violence against a woman,3,1,Unknown
+2025-01-31 12:23:24,Violence against a woman,3,1,Unknown
+2025-01-31 12:23:53,Lone female detected,0,1,Unknown
+2025-01-31 12:23:59,Lone female detected,0,1,Unknown
+2025-01-31 12:24:04,Lone female detected,0,1,Unknown
+2025-01-31 12:24:07,Lone female detected,0,1,Unknown
+2025-01-31 12:24:10,Lone female detected,0,1,Unknown
+2025-01-31 12:24:14,Lone female detected,0,1,Unknown
+2025-01-31 12:24:17,Lone female detected,0,1,Unknown
+2025-01-31 12:24:21,Lone female detected,0,1,Unknown
+2025-01-31 12:24:24,Lone female detected,0,1,Unknown
+2025-01-31 12:24:29,Violence against a woman,3,1,Unknown
+2025-01-31 12:24:35,Lone female detected,3,1,Unknown
+2025-01-31 12:24:39,Violence against a woman,3,1,Unknown
+2025-01-31 12:26:46,Lone female detected,0,1,Unknown
+2025-01-31 12:27:01,Lone female detected,0,1,Unknown
+2025-01-31 12:27:05,Violence against a woman,1,1,Unknown
+2025-01-31 12:27:08,Lone female detected,0,1,Unknown
+2025-01-31 12:27:11,Lone female detected,0,1,Unknown
+2025-01-31 12:27:14,Lone female detected,0,1,Unknown
+2025-01-31 12:27:16,Lone female detected,0,1,Unknown
+2025-01-31 12:27:19,Lone female detected,0,1,Unknown
+2025-01-31 12:27:21,Lone female detected,0,1,Unknown
+2025-01-31 12:27:28,Lone female detected,1,1,Unknown
+2025-01-31 12:27:32,Lone female detected,3,1,Unknown
+2025-01-31 12:27:41,Lone female detected,0,1,Unknown
+2025-01-31 12:28:00,Lone female detected,0,1,Unknown
+2025-01-31 12:28:05,Violence against a woman,1,1,Unknown
+2025-01-31 12:28:11,Lone female detected,0,1,Unknown
+2025-01-31 12:28:15,Lone female detected,0,1,Unknown
+2025-01-31 12:28:19,Lone female detected,0,1,Unknown
+2025-01-31 12:28:21,Lone female detected,0,1,Unknown
+2025-01-31 12:28:25,Lone female detected,0,1,Unknown
+2025-01-31 12:28:29,Lone female detected,0,1,Unknown
+2025-01-31 12:28:32,Lone female detected,0,1,Unknown
+2025-01-31 12:28:36,Lone female detected,0,1,Unknown
+2025-01-31 12:33:46,Lone female detected,0,1,Unknown
+2025-01-31 12:33:51,Lone female detected,0,1,Unknown
+2025-01-31 12:33:55,Lone female detected,0,1,Unknown
+2025-01-31 12:33:58,Lone female detected,0,1,Unknown
+2025-01-31 12:34:00,Lone female detected,0,1,Unknown
+2025-01-31 12:34:04,Lone female detected,0,1,Unknown
+2025-01-31 12:34:08,Lone female detected,0,1,Unknown
+2025-01-31 12:34:10,Lone female detected,0,1,Unknown
+2025-01-31 12:34:13,Lone female detected,0,1,Unknown
+2025-01-31 12:34:15,Lone female detected,0,1,Unknown
+2025-01-31 12:34:18,Lone female detected,0,1,Unknown
+2025-01-31 12:34:20,Lone female detected,0,1,Unknown
+2025-01-31 12:34:24,Lone female detected,0,1,Unknown
+2025-01-31 12:34:26,Lone female detected,0,1,Unknown
+2025-01-31 12:34:29,Lone female detected,0,1,Unknown
+2025-01-31 12:34:31,Lone female detected,0,1,Unknown
+2025-01-31 12:34:40,Lone female detected,1,1,Unknown
+2025-01-31 12:34:43,Lone female detected,0,1,Unknown
+2025-01-31 12:34:46,Lone female detected,0,1,Unknown
+2025-01-31 12:34:51,Lone female detected,0,1,Unknown
+2025-01-31 12:34:59,Lone female detected,0,1,Unknown
+2025-01-31 12:35:02,Lone female detected,0,1,Unknown
+2025-01-31 12:35:05,Lone female detected,0,1,Unknown
+2025-01-31 12:35:07,Lone female detected,0,1,Unknown
+2025-01-31 12:35:09,Lone female detected,0,1,Unknown
+2025-01-31 12:37:39,Lone female detected,0,1,Unknown
+2025-01-31 12:37:47,Lone female detected,0,1,Unknown
+2025-01-31 12:37:50,Violence against a woman,1,1,Unknown
+2025-01-31 12:37:55,Lone female detected,0,1,Unknown
+2025-01-31 12:37:59,Violence against a woman,1,1,Unknown
+2025-01-31 12:38:03,Lone female detected,0,1,Unknown
+2025-01-31 12:38:07,Lone female detected,0,1,Unknown
+2025-01-31 12:38:10,Lone female detected,0,1,Unknown
+2025-01-31 12:38:13,Lone female detected,0,1,Unknown
+2025-01-31 12:38:16,Lone female detected,0,1,Unknown
+2025-01-31 12:38:22,Lone female detected,3,1,Unknown
+2025-01-31 12:38:27,Lone female detected,3,1,Unknown
+2025-01-31 12:38:30,Violence against a woman,3,1,Unknown
+2025-01-31 12:38:56,Lone female detected,1,1,Unknown
+2025-01-31 12:39:06,Violence against a woman,1,1,Unknown
+2025-01-31 12:39:11,Lone female detected,1,1,Unknown
+2025-01-31 12:39:17,Lone female detected,0,1,Unknown
+2025-01-31 12:39:21,Lone female detected,0,1,Unknown
+2025-01-31 12:39:25,Violence against a woman,1,1,Unknown
+2025-01-31 12:39:28,Lone female detected,0,1,Unknown
+2025-01-31 12:39:43,Lone female detected,0,1,Unknown
+2025-01-31 12:39:48,Lone female detected,3,1,Unknown
+2025-01-31 12:40:04,Violence against a woman,1,1,Unknown
+2025-01-31 12:40:07,Lone female detected,0,1,Unknown
+2025-01-31 12:40:10,Lone female detected,0,1,Unknown
+2025-01-31 12:40:14,Lone female detected,0,1,Unknown
+2025-01-31 12:40:18,Lone female detected,0,1,Unknown
+2025-01-31 12:40:21,Lone female detected,0,1,Unknown
+2025-01-31 12:40:25,Lone female detected,0,1,Unknown
+2025-01-31 12:40:28,Lone female detected,0,1,Unknown
+2025-01-31 12:40:31,Lone female detected,0,1,Unknown
+2025-01-31 12:40:34,Lone female detected,0,1,Unknown
+2025-01-31 12:40:49,Lone female detected,0,1,Unknown
+2025-01-31 12:40:52,Lone female detected,0,1,Unknown
+2025-01-31 12:40:57,Lone female detected,0,1,Unknown
+2025-01-31 12:40:59,Lone female detected,0,1,Unknown
+2025-01-31 12:41:01,Lone female detected,0,1,Unknown
+2025-01-31 12:41:08,Lone female detected,0,1,Unknown
+2025-01-31 12:41:16,Lone female detected,0,1,Unknown
+2025-01-31 12:41:27,Violence against a woman,1,1,Unknown
+2025-01-31 12:43:43,Lone female detected,0,1,Unknown
+2025-01-31 12:43:50,Lone female detected,0,1,Unknown
+2025-01-31 12:43:54,Lone female detected,0,1,Unknown
+2025-01-31 12:43:59,Lone female detected,0,1,Unknown
+2025-01-31 12:44:04,Lone female detected,0,1,Unknown
+2025-01-31 12:44:07,Lone female detected,0,1,Unknown
+2025-01-31 12:46:56,Lone female detected,0,1,Unknown
+2025-01-31 12:47:36,Violence against a woman,3,1,Unknown
+2025-01-31 12:47:41,Violence against a woman,1,1,Unknown
+2025-01-31 12:47:44,Lone female detected,0,1,Unknown
+2025-01-31 12:47:47,Lone female detected,0,1,Unknown
+2025-01-31 12:47:54,Lone female detected,0,1,Unknown
+2025-01-31 12:47:57,Lone female detected,0,1,Unknown
+2025-01-31 12:48:01,Lone female detected,0,1,Unknown
+2025-01-31 12:54:57,Lone female detected,0,1,Unknown
+2025-01-31 12:55:01,Lone female detected,1,1,Unknown
+2025-01-31 12:55:04,Lone female detected,0,1,Unknown
+2025-01-31 12:55:07,Lone female detected,0,1,Unknown
+2025-01-31 12:55:13,Lone female detected,0,1,Unknown
+2025-01-31 12:55:17,Violence against a woman,1,1,Unknown
+2025-01-31 12:55:20,Lone female detected,0,1,Unknown
+2025-01-31 12:55:23,Lone female detected,0,1,Unknown
+2025-01-31 12:55:25,Lone female detected,0,1,Unknown
+2025-01-31 12:55:28,Lone female detected,0,1,Unknown
+2025-01-31 12:55:32,Lone female detected,0,1,Unknown
+2025-01-31 12:55:41,Lone female detected,3,1,Unknown
+2025-01-31 12:59:46,Lone female detected,0,1,Unknown
+2025-01-31 12:59:50,Lone female detected,0,1,Unknown
+2025-01-31 12:59:53,Lone female detected,0,1,Unknown
+2025-01-31 12:59:56,Lone female detected,0,1,Unknown
+2025-01-31 13:04:12,Lone female detected,0,1,Unknown
+2025-01-31 13:04:18,Lone female detected,0,1,Unknown
+2025-01-31 13:04:22,Lone female detected,0,1,Unknown
+2025-01-31 13:05:02,Violence against a woman,3,1,Unknown
+2025-01-31 13:05:10,Violence against a woman,1,1,Unknown
+2025-01-31 13:05:20,Lone female detected,0,1,Unknown
+2025-01-31 13:05:23,Lone female detected,0,1,Unknown
+2025-01-31 13:07:43,Lone female detected,0,1,Unknown
+2025-01-31 13:07:54,Lone female detected,0,1,Unknown
+2025-01-31 13:07:59,Lone female detected,0,1,Unknown
+2025-01-31 13:08:03,Lone female detected,0,1,Unknown
+2025-01-31 13:08:07,Lone female detected,0,1,Unknown
+2025-01-31 13:12:06,Lone female detected,0,1,Unknown
+2025-01-31 13:12:06,Violence against a woman,1,1,Unknown
+2025-01-31 13:12:11,Lone female detected,0,1,Unknown
+2025-01-31 13:12:11,Lone female detected,0,1,Unknown
+2025-01-31 13:12:16,Lone female detected,0,1,Unknown
+2025-01-31 13:12:16,Lone female detected,0,1,Unknown
+2025-01-31 13:12:21,Lone female detected,0,1,Unknown
+2025-01-31 13:12:21,Lone female detected,0,1,Unknown
+2025-01-31 13:12:25,Violence against a woman,1,1,Unknown
+2025-01-31 13:12:25,Violence against a woman,1,1,Unknown
+2025-01-31 13:12:28,Lone female detected,0,1,Unknown
+2025-01-31 13:12:29,Lone female detected,0,1,Unknown
+2025-01-31 13:12:30,Lone female detected,0,1,Unknown
+2025-01-31 13:12:33,Lone female detected,0,1,Unknown
+2025-01-31 13:12:33,Lone female detected,0,1,Unknown
+2025-01-31 13:12:35,Lone female detected,0,1,Unknown
+2025-01-31 13:12:36,Lone female detected,0,1,Unknown
+2025-01-31 13:12:38,Lone female detected,0,1,Unknown
+2025-01-31 13:12:40,Lone female detected,0,1,Unknown
+2025-01-31 13:12:45,Violence against a woman,3,1,Unknown
+2025-01-31 13:12:46,Lone female detected,3,1,Unknown
+2025-01-31 13:12:49,Lone female detected,3,1,Unknown
+2025-01-31 13:12:50,Lone female detected,3,1,Unknown
+2025-01-31 13:12:54,Lone female detected,3,1,Unknown
+2025-01-31 13:12:55,Violence against a woman,3,1,Unknown
+2025-01-31 13:12:59,Violence against a woman,3,1,Unknown
+2025-01-31 13:13:25,Lone female detected,1,1,Unknown
+2025-01-31 13:13:26,Violence against a woman,1,1,Unknown
+2025-01-31 13:13:29,Lone female detected,0,1,Unknown
+2025-01-31 13:13:32,Lone female detected,0,1,Unknown
+2025-01-31 13:13:32,Lone female detected,0,1,Unknown
+2025-01-31 13:15:57,Lone female detected,0,1,Unknown
+2025-01-31 13:15:57,Lone female detected,0,1,Unknown
+2025-01-31 13:16:00,Lone female detected,0,1,Unknown
+2025-01-31 13:16:00,Lone female detected,0,1,Unknown
+2025-01-31 13:16:03,Lone female detected,0,1,Unknown
+2025-01-31 13:16:03,Lone female detected,0,1,Unknown
+2025-01-31 13:17:24,Lone female detected,0,1,Unknown
+2025-01-31 13:17:29,Lone female detected,0,1,Unknown
+2025-01-31 13:17:35,Lone female detected,0,1,Unknown
+2025-01-31 13:17:38,Lone female detected,0,1,Unknown
+2025-01-31 13:17:41,Lone female detected,0,1,Unknown
+2025-01-31 13:17:43,Lone female detected,0,1,Unknown
+2025-01-31 13:17:45,Lone female detected,0,1,Unknown
+2025-01-31 13:17:48,Lone female detected,0,1,Unknown
+2025-01-31 13:17:50,Lone female detected,0,1,Unknown
+2025-01-31 13:17:52,Lone female detected,0,1,Unknown
+2025-01-31 13:17:54,Lone female detected,0,1,Unknown
+2025-01-31 13:17:57,Lone female detected,0,1,Unknown
+2025-01-31 13:17:59,Lone female detected,0,1,Unknown
+2025-01-31 13:28:53,Lone female detected,0,1,Unknown
+2025-01-31 13:29:03,Lone female detected,0,1,Unknown
+2025-01-31 13:29:07,Lone female detected,0,1,Unknown
+2025-01-31 13:29:10,Lone female detected,0,1,Unknown
+2025-01-31 13:29:12,Lone female detected,0,1,Unknown
+2025-01-31 13:29:15,Lone female detected,0,1,Unknown
+2025-01-31 13:29:18,Lone female detected,0,1,Unknown
+2025-01-31 13:29:21,Lone female detected,0,1,Unknown
+2025-01-31 13:29:23,Lone female detected,0,1,Unknown
+2025-01-31 13:29:26,Lone female detected,0,1,Unknown
+2025-01-31 13:31:53,Lone female detected,0,1,Unknown
+2025-01-31 13:32:01,Violence against a woman,1,1,Unknown
+2025-01-31 13:32:07,Lone female detected,0,1,Unknown
+2025-01-31 13:32:12,Lone female detected,0,1,Unknown
+2025-01-31 13:32:17,Lone female detected,0,1,Unknown
+2025-01-31 13:32:21,Violence against a woman,1,1,Unknown
+2025-01-31 13:32:23,Lone female detected,0,1,Unknown
+2025-01-31 13:32:26,Lone female detected,0,1,Unknown
+2025-01-31 13:32:29,Lone female detected,0,1,Unknown
+2025-01-31 13:32:32,Lone female detected,0,1,Unknown
+2025-01-31 13:32:36,Lone female detected,3,1,Unknown
+2025-01-31 13:32:40,Lone female detected,3,1,Unknown
+2025-01-31 13:32:46,Violence against a woman,3,1,Unknown
+2025-01-31 13:33:01,Lone female detected,0,1,Unknown
+2025-01-31 13:33:05,Lone female detected,0,1,Unknown
+2025-01-31 13:33:08,Lone female detected,0,1,Unknown
+2025-01-31 13:33:11,Lone female detected,0,1,Unknown
+2025-01-31 13:33:16,Lone female detected,0,1,Unknown
+2025-01-31 13:44:13,Lone female detected,1,1,Unknown
+2025-01-31 13:44:19,Violence against a woman,1,1,Unknown
+2025-01-31 13:44:24,Lone female detected,0,1,Unknown
+2025-01-31 13:44:27,Lone female detected,0,1,Unknown
+2025-01-31 13:44:32,Lone female detected,0,1,Unknown
+2025-01-31 13:45:48,Lone female detected,0,1,Unknown
+2025-01-31 13:45:53,Lone female detected,0,1,Unknown
+2025-01-31 13:45:58,Lone female detected,0,1,Unknown
+2025-01-31 13:46:03,Lone female detected,0,1,Unknown
+2025-01-31 13:46:07,Violence against a woman,1,1,Unknown
+2025-01-31 13:46:11,Violence against a woman,1,1,Unknown
+2025-01-31 13:46:17,Lone female detected,0,1,Unknown
+2025-01-31 13:46:22,Lone female detected,0,1,Unknown
+2025-01-31 13:46:26,Lone female detected,0,1,Unknown
+2025-01-31 13:46:28,Lone female detected,0,1,Unknown
+2025-01-31 13:46:31,Lone female detected,0,1,Unknown
+2025-01-31 13:46:34,Lone female detected,0,1,Unknown
+2025-01-31 13:46:36,Lone female detected,0,1,Unknown
+2025-01-31 13:46:39,Lone female detected,0,1,Unknown
+2025-01-31 13:46:41,Lone female detected,0,1,Unknown
+2025-01-31 13:46:46,Violence against a woman,3,1,Unknown
+2025-01-31 13:46:53,Lone female detected,0,1,Unknown
+2025-01-31 13:46:56,Lone female detected,0,1,Unknown
+2025-01-31 13:47:00,Lone female detected,0,1,Unknown
+2025-01-31 13:47:05,Lone female detected,0,1,Unknown
+2025-01-31 13:47:09,Violence against a woman,1,1,Unknown
+2025-01-31 13:47:12,Lone female detected,0,1,Unknown
+2025-01-31 13:47:15,Lone female detected,0,1,Unknown
+2025-01-31 13:47:18,Lone female detected,0,1,Unknown
+2025-01-31 14:00:24,Lone female detected,1,1,Unknown
+2025-01-31 14:00:30,Lone female detected,0,1,Unknown
+2025-01-31 14:00:36,Lone female detected,0,1,Unknown
+2025-01-31 14:00:40,Violence against a woman,1,1,Unknown
+2025-01-31 14:00:44,Lone female detected,0,1,Unknown
+2025-01-31 14:00:47,Lone female detected,0,1,Unknown
+2025-01-31 14:00:50,Lone female detected,0,1,Unknown
+2025-01-31 14:00:52,Lone female detected,0,1,Unknown
+2025-01-31 14:00:57,Lone female detected,0,1,Unknown
+2025-01-31 14:44:14,Lone female detected,0,1,Unknown
+2025-01-31 14:44:20,Lone female detected,0,1,Unknown
+2025-01-31 14:44:22,Lone female detected,0,1,Unknown
+2025-01-31 14:44:28,Lone female detected,1,1,Unknown
+2025-01-31 14:44:32,Lone female detected,0,1,Unknown
+2025-01-31 14:44:35,Lone female detected,0,1,Unknown
+2025-01-31 14:44:41,Lone female detected,0,1,Unknown
+2025-01-31 14:44:45,Violence against a woman,1,1,Unknown
+2025-01-31 14:44:49,Lone female detected,0,1,Unknown
+2025-01-31 14:44:52,Lone female detected,0,1,Unknown
+2025-01-31 14:44:56,Lone female detected,0,1,Unknown
+2025-01-31 14:44:59,Lone female detected,0,1,Unknown
+2025-01-31 14:45:03,Lone female detected,1,1,Unknown
+2025-01-31 14:45:09,Lone female detected,2,1,Unknown
+2025-01-31 14:45:34,Lone female detected,0,1,Unknown
+2025-01-31 14:45:38,Lone female detected,1,1,Unknown
+2025-01-31 14:46:11,Violence against a woman,2,1,Unknown
+2025-01-31 14:46:15,Violence against a woman,2,1,Unknown
+2025-01-31 14:46:18,Violence against a woman,2,1,Unknown
+2025-01-31 14:46:23,Violence against a woman,2,1,Unknown
+2025-01-31 14:46:27,Violence against a woman,3,1,Unknown
+2025-01-31 14:46:40,Lone female detected,2,1,Unknown
+2025-01-31 14:46:44,Violence against a woman,2,1,Unknown
+2025-01-31 14:46:53,Violence against a woman,3,1,Unknown
+2025-01-31 16:01:00,Lone female detected,3,1,Unknown
+2025-01-31 16:01:07,Lone female detected,0,1,Unknown
+2025-01-31 16:01:11,Lone female detected,0,1,Unknown
+2025-01-31 16:01:19,Lone female detected,0,1,Unknown
+2025-01-31 16:01:23,Lone female detected,0,1,Unknown
+2025-01-31 16:01:26,Lone female detected,0,1,Unknown
+2025-01-31 16:01:29,Lone female detected,0,1,Unknown
+2025-01-31 16:01:33,Lone female detected,0,1,Unknown
+2025-01-31 16:01:36,Lone female detected,0,1,Unknown
+2025-01-31 16:01:39,Lone female detected,0,1,Unknown
+2025-01-31 16:01:45,Lone female detected,0,1,Unknown
+2025-01-31 16:01:49,Violence against a woman,1,1,Unknown
+2025-01-31 16:01:52,Lone female detected,0,1,Unknown
+2025-01-31 16:01:59,Lone female detected,0,1,Unknown
+2025-01-31 16:02:02,Lone female detected,0,1,Unknown
+2025-01-31 16:02:05,Lone female detected,0,1,Unknown
+2025-01-31 16:02:09,Violence against a woman,1,1,Unknown
+2025-01-31 16:12:56,Lone female detected,0,1,Unknown
+2025-01-31 16:13:01,Lone female detected,0,1,Unknown
+2025-01-31 16:13:04,Lone female detected,0,1,Unknown
+2025-01-31 16:13:07,Lone female detected,0,1,Unknown
+2025-01-31 16:13:11,Lone female detected,0,1,Unknown
+2025-01-31 16:13:15,Lone female detected,0,1,Unknown
+2025-01-31 16:13:17,Lone female detected,0,1,Unknown
+2025-01-31 16:13:20,Lone female detected,0,1,Unknown
+2025-01-31 16:13:22,Lone female detected,0,1,Unknown
+2025-01-31 16:19:29,Lone female detected,0,1,Unknown
+2025-01-31 16:19:35,Lone female detected,0,1,Unknown
+2025-01-31 16:19:40,Lone female detected,0,1,Unknown
+2025-01-31 16:19:43,Lone female detected,0,1,Unknown
+2025-01-31 16:19:45,Lone female detected,0,1,Unknown
+2025-01-31 16:19:48,Lone female detected,0,1,Unknown
+2025-01-31 16:19:50,Lone female detected,0,1,Unknown
+2025-01-31 16:19:52,Lone female detected,0,1,Unknown
+2025-01-31 16:19:54,Lone female detected,0,1,Unknown
+2025-01-31 16:19:57,Lone female detected,0,1,Unknown
+2025-01-31 16:19:59,Lone female detected,0,1,Unknown
+2025-01-31 16:20:03,Violence against a woman,3,1,Unknown
+2025-01-31 16:20:07,Lone female detected,3,1,Unknown
+2025-01-31 16:20:11,Lone female detected,3,1,Unknown
+2025-01-31 16:20:15,Violence against a woman,3,1,Unknown
+2025-01-31 16:20:22,Lone female detected,0,1,Unknown
+2025-01-31 16:20:27,Violence against a woman,1,1,Unknown
+2025-01-31 16:20:32,Lone female detected,0,1,Unknown
+2025-01-31 16:20:37,Lone female detected,0,1,Unknown
+2025-01-31 16:20:40,Violence against a woman,1,1,Unknown
+2025-01-31 16:20:43,Lone female detected,0,1,Unknown
+2025-01-31 16:20:46,Lone female detected,0,1,Unknown
+2025-01-31 16:20:49,Lone female detected,0,1,Unknown
+2025-01-31 16:20:51,Lone female detected,0,1,Unknown
+2025-01-31 16:20:54,Lone female detected,0,1,Unknown
+2025-01-31 16:20:57,Lone female detected,0,1,Unknown
+2025-01-31 16:21:01,Lone female detected,0,1,Unknown
+2025-01-31 16:21:04,Lone female detected,0,1,Unknown
+2025-01-31 16:21:07,Lone female detected,0,1,Unknown
+2025-01-31 16:21:12,Lone female detected,0,1,Unknown
+2025-01-31 16:21:16,Violence against a woman,1,1,Unknown
+2025-01-31 16:21:18,Lone female detected,0,1,Unknown
+2025-01-31 16:21:20,Lone female detected,0,1,Unknown
+2025-01-31 16:21:22,Lone female detected,0,1,Unknown
+2025-01-31 16:21:25,Lone female detected,0,1,Unknown
+2025-01-31 16:21:27,Lone female detected,0,1,Unknown
+2025-01-31 16:21:30,Lone female detected,0,1,Unknown
+2025-01-31 16:21:32,Lone female detected,0,1,Unknown
+2025-01-31 16:21:35,Lone female detected,3,1,Unknown
+2025-01-31 16:21:39,Violence against a woman,3,1,Unknown
+2025-01-31 16:21:58,Lone female detected,2,1,Unknown
+2025-01-31 16:22:01,Lone female detected,2,1,Unknown
+2025-01-31 16:22:05,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:10,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:13,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:20,Lone female detected,1,1,Unknown
+2025-01-31 16:22:23,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:26,Lone female detected,1,1,Unknown
+2025-01-31 16:22:28,Lone female detected,1,1,Unknown
+2025-01-31 16:22:33,Lone female detected,1,1,Unknown
+2025-01-31 16:22:35,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:38,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:41,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:43,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:46,Lone female detected,1,1,Unknown
+2025-01-31 16:22:48,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:51,Violence against a woman,1,1,Unknown
+2025-01-31 16:22:53,Lone female detected,1,1,Unknown
+2025-01-31 16:22:56,Violence against a woman,1,1,Unknown
+2025-01-31 16:23:00,Violence against a woman,1,1,Unknown
+2025-01-31 16:23:07,Violence against a woman,1,1,Unknown
+2025-01-31 16:23:11,Lone female detected,1,1,Unknown
+2025-01-31 16:23:27,Lone female detected,0,1,Unknown
+2025-01-31 16:23:30,Lone female detected,1,1,Unknown
+2025-01-31 16:23:34,Lone female detected,0,1,Unknown
+2025-01-31 16:23:37,Lone female detected,1,1,Unknown
+2025-01-31 16:23:41,Lone female detected,0,1,Unknown
+2025-01-31 16:23:46,Violence against a woman,1,1,Unknown
+2025-01-31 16:23:49,Lone female detected,0,1,Unknown
+2025-01-31 16:23:51,Lone female detected,0,1,Unknown
+2025-01-31 16:23:53,Lone female detected,0,1,Unknown
+2025-01-31 16:23:55,Lone female detected,0,1,Unknown
+2025-01-31 16:24:05,Lone female detected,3,1,Unknown
+2025-01-31 16:24:08,Lone female detected,3,1,Unknown
+2025-01-31 16:24:11,Lone female detected,3,1,Unknown
+2025-01-31 16:24:14,Violence against a woman,2,1,Unknown
+2025-01-31 16:24:17,Lone female detected,3,1,Unknown
+2025-01-31 16:24:21,Lone female detected,3,1,Unknown
+2025-01-31 16:24:26,Lone female detected,3,1,Unknown
+2025-01-31 16:24:43,Lone female detected,1,1,Unknown
+2025-01-31 16:24:47,Lone female detected,1,1,Unknown
+2025-01-31 16:24:51,Lone female detected,2,1,Unknown
+2025-01-31 16:24:53,Lone female detected,1,1,Unknown
+2025-01-31 16:24:56,Lone female detected,1,1,Unknown
+2025-01-31 16:25:06,Lone female detected,2,1,Unknown
+2025-01-31 16:25:09,Lone female detected,2,1,Unknown
+2025-01-31 16:25:13,Lone female detected,2,1,Unknown
+2025-01-31 16:25:16,Lone female detected,2,1,Unknown
+2025-01-31 16:25:20,Violence against a woman,2,1,Unknown
+2025-01-31 16:25:23,Lone female detected,2,1,Unknown
+2025-01-31 16:25:29,Lone female detected,1,1,Unknown
+2025-01-31 16:25:31,Violence against a woman,1,1,Unknown
+2025-01-31 16:25:34,Lone female detected,0,1,Unknown
+2025-01-31 16:25:37,Lone female detected,2,1,Unknown
+2025-01-31 16:25:41,Violence against a woman,2,1,Unknown
+2025-01-31 16:25:50,Lone female detected,0,1,Unknown
+2025-01-31 16:25:52,Lone female detected,0,1,Unknown
+2025-01-31 16:25:55,Lone female detected,0,1,Unknown
+2025-01-31 16:30:16,Violence against a woman,1,1,Unknown
+2025-01-31 16:30:29,Violence against a woman,1,1,Unknown
+2025-01-31 16:30:33,Violence against a woman,1,1,Unknown
+2025-01-31 16:30:36,Lone female detected,1,1,Unknown
+2025-01-31 16:30:39,Lone female detected,0,1,Unknown
+2025-01-31 16:31:14,Violence against a woman,2,1,Unknown
+2025-01-31 16:31:21,Lone female detected,0,1,Unknown
+2025-01-31 16:31:24,Violence against a woman,1,1,Unknown
+2025-01-31 16:31:27,Lone female detected,0,1,Unknown
+2025-01-31 16:31:30,Lone female detected,0,1,Unknown
+2025-01-31 16:31:38,Violence against a woman,2,1,Unknown
+2025-01-31 16:31:42,Violence against a woman,2,1,Unknown
+2025-01-31 16:31:45,Lone female detected,0,1,Unknown
+2025-01-31 16:31:49,Violence against a woman,1,1,Unknown
+2025-01-31 16:31:52,Violence against a woman,2,3,Unknown
+2025-01-31 16:31:55,Violence against a woman,1,3,Unknown
+2025-01-31 16:31:59,Violence against a woman,1,1,Unknown
+2025-01-31 16:45:10,Violence against a woman,3,1,Unknown
+2025-01-31 16:45:16,Lone female detected,1,1,Unknown
+2025-01-31 16:45:21,Lone female detected,0,1,Unknown
+2025-01-31 16:45:26,Lone female detected,0,1,Unknown
+2025-01-31 16:45:30,Lone female detected,0,1,Unknown
+2025-01-31 16:45:32,Lone female detected,0,1,Unknown
+2025-01-31 16:45:38,Lone female detected,1,1,Unknown
+2025-01-31 16:46:17,Lone female detected,0,1,Unknown
+2025-01-31 16:46:18,Lone female detected,0,1,Unknown
+2025-01-31 16:46:18,Lone female detected,0,1,Unknown
+2025-01-31 16:46:18,Lone female detected,0,1,Unknown
+2025-01-31 16:46:19,Lone female detected,0,1,Unknown
+2025-01-31 16:46:19,Lone female detected,0,1,Unknown
+2025-01-31 16:46:20,Lone female detected,0,1,Unknown
+2025-01-31 16:46:20,Lone female detected,0,1,Unknown
+2025-01-31 16:46:21,Lone female detected,0,1,Unknown
+2025-01-31 16:46:21,Lone female detected,0,1,Unknown
+2025-01-31 16:46:22,Lone female detected,0,1,Unknown
+2025-01-31 16:46:22,Lone female detected,0,1,Unknown
+2025-01-31 16:46:22,Lone female detected,0,1,Unknown
+2025-01-31 16:46:23,Lone female detected,0,1,Unknown
+2025-01-31 16:46:23,Lone female detected,0,1,Unknown
+2025-01-31 16:46:24,Lone female detected,0,1,Unknown
+2025-01-31 16:46:24,Lone female detected,0,1,Unknown
+2025-01-31 16:46:25,Lone female detected,0,1,Unknown
+2025-01-31 16:46:25,Lone female detected,0,1,Unknown
+2025-01-31 16:46:25,Lone female detected,0,1,Unknown
+2025-01-31 16:46:26,Lone female detected,0,1,Unknown
+2025-01-31 16:46:26,Lone female detected,0,1,Unknown
+2025-01-31 16:46:27,Lone female detected,0,1,Unknown
+2025-01-31 16:46:27,Lone female detected,0,1,Unknown
+2025-01-31 16:46:27,Lone female detected,0,1,Unknown
+2025-01-31 16:46:28,Lone female detected,0,1,Unknown
+2025-01-31 16:46:28,Lone female detected,0,1,Unknown
+2025-01-31 16:46:29,Lone female detected,0,1,Unknown
+2025-01-31 16:46:29,Lone female detected,0,1,Unknown
+2025-01-31 16:46:29,Lone female detected,0,1,Unknown
+2025-01-31 16:46:30,Lone female detected,0,1,Unknown
+2025-01-31 16:46:30,Lone female detected,0,1,Unknown
+2025-01-31 16:46:31,Lone female detected,0,1,Unknown
+2025-01-31 16:46:31,Lone female detected,0,1,Unknown
+2025-01-31 16:46:31,Lone female detected,0,1,Unknown
+2025-01-31 16:46:32,Lone female detected,0,1,Unknown
+2025-01-31 16:46:32,Lone female detected,0,1,Unknown
+2025-01-31 16:46:37,Lone female detected,0,1,Unknown
+2025-01-31 16:46:37,Lone female detected,0,1,Unknown
+2025-01-31 16:46:38,Lone female detected,0,1,Unknown
+2025-01-31 16:46:39,Violence against a woman,2,1,Unknown
+2025-01-31 16:46:40,Violence against a woman,2,1,Unknown
+2025-01-31 16:54:34,Lone female detected,3,1,Unknown
+2025-01-31 16:54:35,Lone female detected,3,1,Unknown
+2025-01-31 16:54:36,Lone female detected,0,1,Unknown
+2025-01-31 16:54:37,Lone female detected,0,1,Unknown
+2025-01-31 16:54:41,Lone female detected,1,1,Unknown
+2025-01-31 16:54:41,Lone female detected,1,1,Unknown
+2025-01-31 16:54:42,Lone female detected,0,1,Unknown
+2025-01-31 16:54:43,Lone female detected,0,1,Unknown
+2025-01-31 16:54:43,Lone female detected,0,1,Unknown
+2025-01-31 16:54:43,Lone female detected,0,1,Unknown
+2025-01-31 16:54:44,Lone female detected,0,1,Unknown
+2025-01-31 16:54:44,Lone female detected,0,1,Unknown
+2025-01-31 16:54:47,Lone female detected,0,1,Unknown
+2025-01-31 16:54:47,Lone female detected,0,1,Unknown
+2025-01-31 16:54:48,Lone female detected,0,1,Unknown
+2025-01-31 16:54:48,Lone female detected,0,1,Unknown
+2025-01-31 16:54:49,Lone female detected,0,1,Unknown
+2025-01-31 16:54:52,Lone female detected,0,1,Unknown
+2025-01-31 16:58:53,Lone female detected,0,1,Unknown
+2025-01-31 16:59:02,Lone female detected,0,1,Unknown
+2025-01-31 16:59:07,Lone female detected,0,1,Unknown
+2025-01-31 16:59:13,Lone female detected,0,1,Unknown
+2025-01-31 16:59:20,Lone female detected,0,1,Unknown
+2025-01-31 16:59:25,Lone female detected,0,1,Unknown
+2025-01-31 16:59:30,Lone female detected,0,1,Unknown
+2025-01-31 16:59:37,Lone female detected,0,1,Unknown
+2025-01-31 16:59:43,Lone female detected,0,1,Unknown
+2025-01-31 16:59:49,Lone female detected,0,1,Unknown
+2025-01-31 16:59:53,Lone female detected,0,1,Unknown
+2025-01-31 17:00:00,Lone female detected,0,1,Unknown
+2025-01-31 17:00:19,Lone female detected,0,1,Unknown
+2025-01-31 17:00:28,Violence against a woman,1,1,Unknown
+2025-01-31 17:00:38,Lone female detected,0,1,Unknown
+2025-01-31 17:00:47,Lone female detected,0,1,Unknown
+2025-01-31 17:00:57,Lone female detected,0,1,Unknown
+2025-01-31 17:01:04,Lone female detected,3,1,Unknown
+2025-01-31 17:01:13,Lone female detected,3,1,Unknown
+2025-01-31 17:02:22,Violence against a woman,1,1,Unknown
+2025-01-31 17:02:33,Lone female detected,0,1,Unknown
+2025-01-31 17:02:44,Lone female detected,0,1,Unknown
+2025-01-31 17:02:52,Lone female detected,0,1,Unknown
+2025-01-31 17:02:57,Lone female detected,0,1,Unknown
+2025-01-31 17:04:11,Violence against a woman,1,1,Unknown
+2025-01-31 17:04:21,Violence against a woman,1,1,Unknown
+2025-01-31 17:04:29,Violence against a woman,1,1,Unknown
+2025-01-31 17:04:37,Lone female detected,0,1,Unknown
+2025-01-31 17:04:50,Lone female detected,3,1,Unknown
+2025-01-31 17:04:59,Violence against a woman,3,1,Unknown
+2025-01-31 17:06:59,Lone female detected,0,1,Unknown
+2025-01-31 17:07:08,Lone female detected,0,1,Unknown
+2025-01-31 17:07:15,Lone female detected,0,1,Unknown
+2025-01-31 17:07:19,Violence against a woman,1,1,Unknown
+2025-01-31 17:07:23,Lone female detected,0,1,Unknown
+2025-01-31 17:07:28,Lone female detected,0,1,Unknown
+2025-01-31 17:07:32,Lone female detected,0,1,Unknown
+2025-01-31 17:07:38,Violence against a woman,3,1,Unknown
+2025-01-31 17:07:45,Violence against a woman,3,1,Unknown
+2025-01-31 17:07:52,Violence against a woman,3,1,Unknown
+2025-01-31 17:08:44,Lone female detected,0,1,Unknown
+2025-01-31 17:08:50,Lone female detected,0,1,Unknown
+2025-01-31 17:08:56,Lone female detected,0,1,Unknown
+2025-01-31 17:09:02,Lone female detected,0,1,Unknown
+2025-01-31 17:09:07,Lone female detected,0,1,Unknown
+2025-01-31 17:09:12,Lone female detected,0,1,Unknown
+2025-01-31 17:09:23,Violence against a woman,2,1,Unknown
+2025-01-31 17:17:59,Violence against a woman,2,1,Unknown
+2025-01-31 17:18:06,Lone female detected,0,1,Unknown
+2025-01-31 17:18:10,Violence against a woman,1,1,Unknown
+2025-01-31 17:18:15,Lone female detected,0,1,Unknown
+2025-01-31 17:18:19,Lone female detected,0,1,Unknown
+2025-01-31 17:18:25,Lone female detected,0,1,Unknown
+2025-01-31 17:18:30,Lone female detected,0,1,Unknown
+2025-01-31 17:18:35,Violence against a woman,1,1,Unknown
+2025-01-31 17:18:57,Violence against a woman,3,1,Unknown
+2025-01-31 17:40:55,Lone female detected,0,1,Unknown
+2025-01-31 17:40:59,Lone female detected,0,1,Unknown
+2025-01-31 17:41:04,Lone female detected,0,1,Unknown
+2025-01-31 17:41:09,Lone female detected,0,1,Unknown
+2025-01-31 17:41:12,Lone female detected,0,1,Unknown
+2025-01-31 17:41:15,Lone female detected,0,1,Unknown
+2025-01-31 17:41:17,Lone female detected,1,1,Unknown
+2025-01-31 17:41:20,Violence against a woman,2,1,Unknown
+2025-01-31 17:41:22,Lone female detected,0,1,Unknown
+2025-01-31 17:41:25,Violence against a woman,3,1,Unknown
+2025-01-31 17:41:28,Lone female detected,3,1,Unknown
+2025-01-31 17:41:34,Lone female detected,3,1,Unknown
+2025-01-31 17:41:37,Violence against a woman,3,1,Unknown
+2025-01-31 17:41:40,Violence against a woman,3,1,Unknown
+2025-01-31 17:41:59,Lone female detected,0,1,Unknown
+2025-01-31 17:42:04,Lone female detected,1,1,Unknown
+2025-01-31 17:42:09,Lone female detected,0,1,Unknown
+2025-01-31 17:42:14,Violence against a woman,1,1,Unknown
+2025-01-31 17:42:18,Lone female detected,0,1,Unknown
+2025-01-31 17:42:20,Violence against a woman,1,1,Unknown
+2025-01-31 17:42:23,Lone female detected,1,1,Unknown
+2025-01-31 17:42:25,Violence against a woman,1,1,Unknown
+2025-01-31 17:42:27,Violence against a woman,2,1,Unknown
+2025-01-31 17:42:31,Lone female detected,3,1,Unknown
+2025-01-31 17:42:35,Lone female detected,3,1,Unknown
+2025-01-31 17:57:53,Lone female detected,0,1,Unknown
+2025-01-31 17:57:57,Lone female detected,1,1,Unknown
+2025-01-31 17:58:00,Lone female detected,1,1,Unknown
+2025-01-31 17:58:03,Lone female detected,0,1,Unknown
+2025-01-31 17:58:08,Violence against a woman,1,1,Unknown
+2025-01-31 17:58:11,Lone female detected,0,1,Unknown
+2025-01-31 17:58:13,Violence against a woman,1,1,Unknown
+2025-01-31 17:58:15,Lone female detected,1,1,Unknown
+2025-01-31 17:58:18,Violence against a woman,2,2,Unknown
+2025-01-31 17:58:21,Violence against a woman,2,1,Unknown
+2025-01-31 17:58:25,Lone female detected,3,1,Unknown
+2025-01-31 17:58:28,Violence against a woman,3,1,Unknown
+2025-01-31 17:58:31,Lone female detected,3,1,Unknown
+2025-01-31 17:58:36,Violence against a woman,3,1,Unknown
+2025-01-31 17:58:39,Violence against a woman,3,1,Unknown
+2025-01-31 17:58:51,Violence against a woman,1,1,Unknown
+2025-01-31 17:59:02,Violence against a woman,1,1,Unknown
+2025-02-04 00:35:31,Violence against a woman,3,1,Unknown
+2025-02-04 00:35:37,Lone female detected,3,1,Unknown
+2025-02-04 00:35:41,Lone female detected,3,1,Unknown
+2025-02-15 01:29:35,Lone female detected,0,1,Unknown
+2025-02-15 01:29:53,Lone female detected,0,1,Unknown
+2025-02-15 01:30:08,Lone female detected,3,1,Unknown
+2025-03-07 00:03:59,Lone female detected,0,1,Unknown
+2025-03-07 00:04:04,Lone female detected,0,1,Unknown
+2025-03-07 00:04:05,Lone female detected,0,1,Unknown
+2025-03-07 00:04:12,Lone female detected,0,1,Unknown
+2025-03-07 00:04:13,Lone female detected,0,1,Unknown
+2025-03-07 00:04:16,Lone female detected,0,1,Unknown
+2025-03-07 00:04:22,Lone female detected,0,1,Unknown
+2025-03-07 00:04:24,Lone female detected,0,1,Unknown
+2025-03-07 00:04:25,Lone female detected,0,1,Unknown
+2025-03-07 00:04:28,Lone female detected,0,1,Unknown
+2025-03-07 00:04:32,Lone female detected,0,1,Unknown
+2025-03-07 00:04:32,Lone female detected,0,1,Unknown
+2025-03-07 00:04:35,Lone female detected,0,1,Unknown
+2025-03-07 00:04:45,Lone female detected,0,1,Unknown
+2025-03-07 00:04:47,Lone female detected,0,1,Unknown
+2025-03-07 00:04:47,Lone female detected,0,1,Unknown
+2025-03-07 00:04:48,Lone female detected,0,1,Unknown
+2025-03-07 00:04:50,Lone female detected,0,1,Unknown
+2025-03-07 00:04:52,Lone female detected,0,1,Unknown
+2025-03-07 00:04:53,Lone female detected,0,1,Unknown
+2025-03-07 00:04:54,Lone female detected,0,1,Unknown
+2025-03-07 00:05:07,Lone female detected,1,1,Unknown
+2025-03-07 00:05:08,Violence against a woman,1,1,Unknown
+2025-03-07 00:05:09,Lone female detected,1,1,Unknown
+2025-03-07 00:05:14,Lone female detected,1,1,Unknown
+2025-03-07 00:05:15,Violence against a woman,1,1,Unknown
+2025-03-07 00:05:17,Violence against a woman,1,1,Unknown
+2025-03-07 00:05:19,Lone female detected,1,1,Unknown
+2025-03-07 00:05:33,Lone female detected,0,1,Unknown
+2025-03-07 14:24:18,Lone female detected,0,1,Unknown
+2025-03-07 14:24:24,Lone female detected,0,1,Unknown
+2025-03-07 14:24:26,Lone female detected,0,1,Unknown
+2025-03-07 14:24:29,Lone female detected,0,1,Unknown
+2025-03-07 14:24:34,Lone female detected,0,1,Unknown
+2025-03-07 14:24:37,Lone female detected,0,1,Unknown
+2025-03-07 14:24:39,Lone female detected,0,1,Unknown
+2025-03-07 14:24:41,Lone female detected,0,1,Unknown
+2025-03-07 14:24:43,Lone female detected,0,1,Unknown
+2025-03-07 14:24:45,Lone female detected,0,1,Unknown
+2025-03-07 14:24:47,Lone female detected,0,1,Unknown
+2025-03-07 14:24:49,Lone female detected,0,1,Unknown
+2025-03-07 14:24:52,Lone female detected,0,1,Unknown
+2025-03-07 14:24:54,Lone female detected,0,1,Unknown
+2025-03-07 14:25:37,Violence against a woman,1,1,Unknown
+2025-03-07 14:25:39,Lone female detected,1,1,Unknown
+2025-03-07 14:25:41,Lone female detected,1,1,Unknown
+2025-03-07 14:25:43,Violence against a woman,1,1,Unknown
+2025-03-07 14:25:46,Violence against a woman,1,1,Unknown
+2025-03-07 14:25:51,Violence against a woman,1,1,Unknown
+2025-03-07 15:13:14,Violence against a woman,2,1,Unknown
+2025-03-07 15:13:19,Lone female detected,0,1,Unknown
+2025-03-07 15:13:24,Violence against a woman,1,1,Unknown
+2025-03-07 15:13:26,Lone female detected,0,1,Unknown
+2025-03-07 15:13:29,Lone female detected,1,1,Unknown
+2025-03-07 15:13:35,Lone female detected,0,1,Unknown
+2025-03-07 15:13:37,Lone female detected,0,1,Unknown
+2025-03-07 15:13:39,Lone female detected,0,1,Unknown
+2025-03-07 15:13:41,Lone female detected,0,1,Unknown
+2025-03-07 15:13:44,Lone female detected,0,1,Unknown
+2025-03-07 15:13:46,Lone female detected,0,1,Unknown
+2025-03-07 15:13:48,Lone female detected,0,1,Unknown
+2025-03-07 15:13:51,Lone female detected,0,1,Unknown
+2025-03-07 15:13:53,Lone female detected,0,1,Unknown
+2025-03-07 15:13:55,Lone female detected,0,1,Unknown
+2025-03-07 15:13:59,Lone female detected,3,1,Unknown
+2025-03-07 15:14:02,Lone female detected,3,1,Unknown
+2025-03-07 15:14:07,Lone female detected,3,1,Unknown
+2025-03-07 15:14:10,Violence against a woman,3,1,Unknown
+2025-03-07 15:14:34,Violence against a woman,1,1,Unknown
+2025-03-07 15:14:37,Lone female detected,0,1,Unknown
+2025-03-07 15:14:39,Lone female detected,0,1,Unknown
+2025-03-07 15:14:43,Violence against a woman,1,1,Unknown
+2025-03-07 15:14:47,Violence against a woman,1,1,Unknown
+2025-03-07 15:14:49,Violence against a woman,1,1,Unknown
+2025-03-07 15:14:53,Lone female detected,0,1,Unknown
+2025-03-07 15:15:02,Violence against a woman,1,2,Unknown
+2025-03-07 15:15:05,Lone female detected,0,1,Unknown
+2025-03-07 15:15:12,Violence against a woman,1,1,Unknown
+2025-03-19 12:51:27,Lone female detected,0,1,Unknown
+2025-03-19 12:51:35,Lone female detected,0,1,Unknown
+2025-03-19 12:51:38,Lone female detected,0,1,Unknown
+2025-03-19 12:51:42,Lone female detected,0,1,Unknown
+2025-03-19 12:51:47,Lone female detected,0,1,Unknown
+2025-03-19 12:51:50,Lone female detected,0,1,Unknown
+2025-03-19 12:51:53,Lone female detected,0,1,Unknown
+2025-03-19 12:51:56,Lone female detected,0,1,Unknown
+2025-03-19 12:51:59,Lone female detected,0,1,Unknown
+2025-03-19 12:52:01,Lone female detected,0,1,Unknown
+2025-03-19 12:52:04,Lone female detected,0,1,Unknown
+2025-03-19 12:52:07,Lone female detected,0,1,Unknown
+2025-03-19 12:52:10,Violence against a woman,3,1,Unknown
+2025-03-19 12:52:14,Lone female detected,3,1,Unknown
+2025-03-19 12:52:17,Lone female detected,2,1,Unknown
+2025-03-19 12:52:22,Lone female detected,3,1,Unknown
+2025-03-19 12:52:47,Violence against a woman,2,1,Unknown
+2025-03-19 12:52:50,Lone female detected,0,1,Unknown
+2025-03-19 12:52:52,Lone female detected,0,1,Unknown
+2025-03-19 12:52:57,Violence against a woman,2,1,Unknown
+2025-03-19 12:53:03,Violence against a woman,2,1,Unknown
+2025-03-19 12:53:07,Lone female detected,0,1,Unknown
+2025-03-20 12:53:38,Violence against a woman,3,1,Unknown
+2025-03-20 12:53:43,Lone female detected,2,1,Unknown
+2025-03-20 12:54:16,Lone female detected,1,1,Unknown
+2025-03-20 12:54:28,Lone female detected,2,1,Unknown
+2025-03-20 12:54:38,Violence against a woman,1,1,Unknown
+2025-03-20 12:54:41,Lone female detected,0,1,Unknown
+2025-03-20 13:02:09,Lone female detected,0,1,Unknown
+2025-03-20 13:02:09,Lone female detected,0,1,Unknown
+2025-03-20 13:02:22,Violence against a woman,2,1,Unknown
+2025-03-20 13:02:30,Lone female detected,0,1,Unknown
+2025-03-20 13:10:52,Violence against a woman,2,1,Unknown
+2025-03-20 13:11:24,Violence against a woman,1,1,Unknown
+2025-03-20 13:12:15,Violence against a woman,3,1,Unknown
+2025-03-20 13:13:23,Violence against a woman,1,1,Unknown
+2025-03-20 13:13:27,Lone female detected,3,1,Unknown
+2025-03-20 13:13:31,Violence against a woman,3,1,Unknown
+2025-03-20 13:14:21,Lone female detected,0,1,Unknown
+2025-03-20 13:14:25,Violence against a woman,1,1,Unknown
+2025-03-20 13:15:22,Lone female detected,0,1,Unknown
+2025-03-20 13:15:29,Lone female detected,0,1,Unknown
+2025-03-20 13:15:35,Lone female detected,0,1,Unknown
+2025-03-20 13:15:41,Lone female detected,0,1,Unknown
+2025-03-20 13:15:46,Lone female detected,0,1,Unknown
+2025-03-20 13:15:50,Lone female detected,0,1,Unknown
+2025-03-20 13:15:53,Lone female detected,0,1,Unknown
+2025-03-20 13:15:56,Lone female detected,0,1,Unknown
+2025-03-20 13:15:59,Lone female detected,0,1,Unknown
+2025-03-20 13:16:02,Lone female detected,0,1,Unknown
+2025-03-20 13:16:05,Lone female detected,0,1,Unknown
+2025-03-20 13:16:09,Violence against a woman,3,1,Unknown
+2025-03-20 13:16:13,Violence against a woman,3,1,Unknown
+2025-03-20 13:16:17,Lone female detected,3,1,Unknown
+2025-03-20 13:16:24,Violence against a woman,3,1,Unknown
+2025-03-20 13:16:31,Violence against a woman,1,1,Unknown
+2025-03-20 13:16:35,Violence against a woman,1,1,Unknown
+2025-03-20 13:16:38,Lone female detected,0,1,Unknown
+2025-03-20 13:16:41,Lone female detected,0,1,Unknown
+2025-03-20 13:16:50,Lone female detected,0,1,Unknown
+2025-03-20 13:16:54,Lone female detected,0,1,Unknown
+2025-03-20 13:16:57,Lone female detected,0,1,Unknown
+2025-03-20 13:17:00,Lone female detected,0,1,Unknown
+2025-03-20 13:17:03,Violence against a woman,1,1,Unknown
+2025-03-20 13:17:09,Lone female detected,1,1,Unknown
+2025-03-20 13:17:14,Violence against a woman,1,1,Unknown
+2025-03-20 13:17:20,Violence against a woman,2,1,Unknown
+2025-03-20 13:17:31,Violence against a woman,1,1,Unknown
+2025-03-20 13:17:34,Lone female detected,1,1,Unknown
+2025-03-20 13:18:05,Violence against a woman,3,1,Unknown
+2025-03-20 13:18:16,Lone female detected,4,1,Unknown
+2025-03-20 13:19:44,Violence against a woman,1,1,Unknown
+2025-03-20 13:19:48,Lone female detected,2,1,Unknown
+2025-03-20 13:19:51,Lone female detected,1,1,Unknown
+2025-03-20 13:19:59,Violence against a woman,2,1,Unknown
+2025-03-20 13:20:01,Violence against a woman,2,1,Unknown
+2025-03-20 13:20:04,Violence against a woman,2,1,Unknown
+2025-03-20 13:20:08,Lone female detected,1,1,Unknown
+2025-03-20 13:20:15,Lone female detected,1,1,Unknown
+2025-03-20 13:20:18,Lone female detected,1,1,Unknown
+2025-03-20 13:20:21,Lone female detected,1,1,Unknown
+2025-03-20 13:20:39,Violence against a woman,1,1,Unknown
+2025-03-20 13:20:42,Violence against a woman,2,1,Unknown
+2025-03-20 13:20:45,Violence against a woman,1,1,Unknown
+2025-03-20 13:20:47,Violence against a woman,1,1,Unknown
+2025-03-20 13:20:49,Violence against a woman,1,1,Unknown
+2025-03-20 13:20:53,Violence against a woman,1,1,Unknown
+2025-03-20 13:20:56,Violence against a woman,1,1,Unknown
+2025-03-20 13:21:08,Violence against a woman,1,1,Unknown
+2025-03-20 13:26:10,Violence against a woman,1,1,Unknown
+2025-03-20 13:26:15,Lone female detected,1,1,Unknown
+2025-03-20 13:26:15,Lone female detected,0,1,Unknown
+2025-03-20 13:26:20,Violence against a woman,1,1,Unknown
+2025-03-20 13:26:21,Violence against a woman,1,1,Unknown
+2025-03-20 13:26:25,Violence against a woman,1,1,Unknown
+2025-03-20 13:26:25,Lone female detected,0,1,Unknown
+2025-03-20 13:26:27,Lone female detected,0,1,Unknown
+2025-03-20 13:26:30,Lone female detected,0,1,Unknown
+2025-03-20 13:26:31,Lone female detected,0,1,Unknown
+2025-03-20 13:26:35,Lone female detected,0,1,Unknown
+2025-03-20 13:26:35,Lone female detected,0,1,Unknown
+2025-03-20 13:26:40,Lone female detected,0,1,Unknown
+2025-03-20 13:26:40,Lone female detected,0,1,Unknown
+2025-03-20 13:26:43,Lone female detected,0,1,Unknown
+2025-03-20 13:26:43,Lone female detected,0,1,Unknown
+2025-03-20 13:26:51,Lone female detected,3,1,Unknown
+2025-03-20 13:26:52,Lone female detected,3,1,Unknown
+2025-03-20 13:26:55,Lone female detected,3,1,Unknown
+2025-03-20 13:26:56,Violence against a woman,3,1,Unknown
+2025-03-20 13:27:01,Violence against a woman,3,1,Unknown
+2025-03-20 13:27:01,Violence against a woman,3,1,Unknown
+2025-03-20 13:34:03,Lone female detected,0,1,Unknown
+2025-03-20 13:36:28,Lone female detected,0,1,Unknown
+2025-03-20 13:36:34,Lone female detected,0,1,Unknown
+2025-03-20 13:36:38,Lone female detected,0,1,Unknown
+2025-03-20 13:36:43,Lone female detected,0,1,Unknown
+2025-03-20 13:36:46,Lone female detected,0,1,Unknown
+2025-03-20 13:38:05,Lone female detected,0,1,Unknown
+2025-03-20 13:38:20,Lone female detected,0,1,Unknown
+2025-03-20 13:38:42,Violence against a woman,1,1,Unknown
+2025-03-20 13:38:44,Lone female detected,0,1,Unknown
+2025-03-20 13:38:47,Lone female detected,0,1,Unknown
+2025-03-20 13:38:55,Lone female detected,0,1,Unknown
+2025-03-20 13:38:58,Lone female detected,0,1,Unknown
+2025-03-20 13:40:39,Lone female detected,0,1,Unknown
+2025-03-20 13:40:41,Lone female detected,0,1,Unknown
+2025-03-20 13:40:45,Lone female detected,0,1,Unknown
+2025-03-20 13:40:47,Lone female detected,0,1,Unknown
+2025-03-20 13:40:50,Lone female detected,0,1,Unknown
+2025-03-20 13:40:53,Lone female detected,0,1,Unknown
+2025-03-20 13:40:55,Lone female detected,0,1,Unknown
+2025-03-20 13:40:58,Lone female detected,0,1,Unknown
+2025-03-20 13:41:01,Lone female detected,0,1,Unknown
+2025-03-20 13:41:03,Lone female detected,0,1,Unknown
+2025-03-20 13:41:06,Lone female detected,0,1,Unknown
+2025-03-20 13:41:08,Lone female detected,0,1,Unknown
+2025-03-20 13:41:11,Lone female detected,0,1,Unknown
+2025-03-20 13:42:15,Lone female detected,0,1,Unknown
+2025-03-20 13:43:12,Lone female detected,0,1,Unknown
+2025-03-20 13:43:16,Lone female detected,0,1,Unknown
+2025-03-20 13:43:22,Lone female detected,0,1,Unknown
+2025-03-20 13:43:26,Lone female detected,1,1,Unknown
+2025-03-20 13:43:28,Lone female detected,0,1,Unknown
+2025-03-20 13:43:31,Lone female detected,0,1,Unknown
+2025-03-20 13:43:33,Lone female detected,0,1,Unknown
+2025-03-20 13:43:37,Lone female detected,0,1,Unknown
+2025-03-20 13:43:40,Lone female detected,0,1,Unknown
+2025-03-20 13:43:42,Lone female detected,0,1,Unknown
+2025-03-20 13:43:49,Lone female detected,3,1,Unknown
+2025-03-20 13:43:58,Violence against a woman,3,1,Unknown
+2025-03-20 13:44:19,Lone female detected,0,1,Unknown
+2025-03-20 13:44:24,Lone female detected,0,1,Unknown
+2025-03-20 13:44:53,Lone female detected,0,1,Unknown
+2025-03-20 13:44:59,Violence against a woman,3,1,Unknown
+2025-03-20 13:45:02,Lone female detected,0,1,Unknown
+2025-03-20 13:45:04,Violence against a woman,1,1,Unknown
+2025-03-20 13:45:11,Lone female detected,0,1,Unknown
+2025-03-20 13:45:18,Violence against a woman,1,1,Unknown
+2025-03-20 13:45:22,Lone female detected,0,1,Unknown
+2025-03-20 13:45:25,Violence against a woman,1,1,Unknown
+2025-03-20 13:45:28,Lone female detected,0,1,Unknown
+2025-03-20 13:45:31,Lone female detected,0,1,Unknown
+2025-03-20 13:45:34,Lone female detected,0,1,Unknown
+2025-03-20 13:45:36,Lone female detected,0,1,Unknown
+2025-03-20 13:45:39,Lone female detected,0,1,Unknown
+2025-03-20 13:45:41,Lone female detected,0,1,Unknown
+2025-03-20 13:45:45,Lone female detected,2,1,Unknown
+2025-03-20 13:47:11,Lone female detected,0,1,Unknown
+2025-03-20 13:47:15,Lone female detected,0,1,Unknown
+2025-03-20 13:47:18,Lone female detected,0,1,Unknown
+2025-03-20 13:47:21,Lone female detected,0,1,Unknown
+2025-03-20 13:47:24,Lone female detected,0,1,Unknown
+2025-03-20 13:47:26,Lone female detected,0,1,Unknown
+2025-03-20 13:47:29,Lone female detected,0,1,Unknown
+2025-03-20 13:47:32,Lone female detected,0,1,Unknown
+2025-03-20 13:47:34,Lone female detected,0,1,Unknown
+2025-03-20 13:47:36,Lone female detected,0,1,Unknown
+2025-03-20 13:47:39,Lone female detected,0,1,Unknown
+2025-03-20 13:47:41,Lone female detected,0,1,Unknown
+2025-03-20 13:47:43,Lone female detected,0,1,Unknown
+2025-03-20 13:47:45,Lone female detected,0,1,Unknown
+2025-03-20 13:47:47,Lone female detected,0,1,Unknown
+2025-03-20 13:47:51,Violence against a woman,3,1,Unknown
+2025-03-20 13:47:54,Violence against a woman,3,1,Unknown
+2025-03-20 13:48:00,Lone female detected,0,1,Unknown
+2025-03-20 13:48:04,Violence against a woman,1,1,Unknown
+2025-03-20 13:48:43,Lone female detected,3,1,Unknown
+2025-03-20 13:48:49,Violence against a woman,1,1,Unknown
+2025-03-20 13:48:51,Lone female detected,0,1,Unknown
+2025-03-20 13:48:55,Lone female detected,0,1,Unknown
+2025-03-20 13:49:00,Lone female detected,0,1,Unknown
+2025-03-20 13:49:02,Lone female detected,0,1,Unknown
+2025-03-20 13:49:04,Lone female detected,0,1,Unknown
+2025-03-20 13:49:06,Lone female detected,0,1,Unknown
+2025-03-20 13:49:09,Lone female detected,0,1,Unknown
+2025-03-20 13:49:11,Lone female detected,0,1,Unknown
+2025-03-20 13:49:13,Lone female detected,0,1,Unknown
+2025-03-20 13:50:07,Lone female detected,0,1,Unknown
+2025-03-20 13:50:09,Lone female detected,0,1,Unknown
+2025-03-20 13:50:13,Lone female detected,0,1,Unknown
+2025-03-20 13:50:17,Lone female detected,0,1,Unknown
+2025-03-20 13:50:19,Lone female detected,0,1,Unknown
+2025-03-20 13:50:24,Lone female detected,0,1,Unknown
+2025-03-20 13:50:29,Lone female detected,0,1,Unknown
+2025-03-20 13:50:32,Lone female detected,0,1,Unknown
+2025-03-20 13:50:34,Lone female detected,0,1,Unknown
+2025-03-20 13:50:36,Lone female detected,0,1,Unknown
+2025-03-20 13:50:38,Lone female detected,0,1,Unknown
+2025-03-20 13:50:40,Lone female detected,0,1,Unknown
+2025-03-20 13:50:42,Lone female detected,0,1,Unknown
+2025-03-20 13:50:44,Lone female detected,0,1,Unknown
+2025-03-20 13:50:46,Lone female detected,0,1,Unknown
+2025-03-20 13:50:49,Lone female detected,0,1,Unknown
+2025-03-20 13:50:52,Violence against a woman,3,1,Unknown
+2025-03-20 13:50:54,Lone female detected,3,1,Unknown
+2025-03-20 13:50:57,Lone female detected,3,1,Unknown
+2025-03-20 13:51:00,Lone female detected,3,1,Unknown
+2025-03-20 13:51:03,Violence against a woman,3,1,Unknown
+2025-03-20 13:51:06,Violence against a woman,3,1,Unknown
+2025-03-20 13:51:58,Lone female detected,0,1,Unknown
+2025-03-20 13:52:02,Lone female detected,1,1,Unknown
+2025-03-20 13:52:04,Lone female detected,0,1,Unknown
+2025-03-20 13:52:09,Violence against a woman,1,1,Unknown
+2025-03-20 13:52:14,Lone female detected,0,1,Unknown
+2025-03-20 13:52:17,Lone female detected,1,1,Unknown
+2025-03-20 13:52:49,Violence against a woman,3,1,Unknown
+2025-03-20 13:52:51,Lone female detected,0,1,Unknown
+2025-03-20 13:52:54,Lone female detected,0,1,Unknown
+2025-03-20 13:52:56,Lone female detected,0,1,Unknown
+2025-03-20 13:53:01,Lone female detected,0,1,Unknown
+2025-03-20 13:53:06,Lone female detected,0,1,Unknown
+2025-03-20 13:53:09,Lone female detected,1,1,Unknown
+2025-03-20 13:53:32,Lone female detected,3,1,Unknown
+2025-03-20 13:53:34,Lone female detected,0,1,Unknown
+2025-03-20 13:53:39,Lone female detected,1,1,Unknown
+2025-03-20 13:53:41,Lone female detected,0,1,Unknown
+2025-03-20 13:53:45,Lone female detected,0,1,Unknown
+2025-03-20 13:53:49,Lone female detected,0,1,Unknown
+2025-03-20 13:53:52,Lone female detected,0,1,Unknown
+2025-03-20 13:53:54,Lone female detected,0,1,Unknown
+2025-03-20 13:53:56,Lone female detected,0,1,Unknown
+2025-03-20 13:53:59,Lone female detected,0,1,Unknown
+2025-03-20 13:54:01,Lone female detected,0,1,Unknown
+2025-03-20 13:55:36,Lone female detected,0,1,Unknown
+2025-03-20 13:55:38,Lone female detected,0,1,Unknown
+2025-03-20 13:55:42,Lone female detected,0,1,Unknown
+2025-03-20 13:55:43,Violence against a woman,1,1,Unknown
+2025-03-20 13:55:46,Lone female detected,0,1,Unknown
+2025-03-20 13:55:46,Lone female detected,0,1,Unknown
+2025-03-20 13:55:49,Lone female detected,0,1,Unknown
+2025-03-20 13:55:49,Lone female detected,0,1,Unknown
+2025-03-20 13:55:51,Lone female detected,0,1,Unknown
+2025-03-20 13:55:51,Lone female detected,0,1,Unknown
+2025-03-20 13:55:54,Lone female detected,0,1,Unknown
+2025-03-20 13:55:54,Lone female detected,0,1,Unknown
+2025-03-20 13:55:56,Lone female detected,0,1,Unknown
+2025-03-20 13:55:57,Lone female detected,0,1,Unknown
+2025-03-20 14:11:44,Lone female detected,0,1,Unknown
+2025-03-20 14:11:51,Lone female detected,0,1,Unknown
+2025-03-20 14:11:54,Lone female detected,0,1,Unknown
+2025-03-20 14:11:56,Lone female detected,0,1,Unknown
+2025-03-20 14:12:02,Lone female detected,0,1,Unknown
+2025-03-20 14:13:50,Lone female detected,0,1,Unknown
+2025-03-20 14:13:54,Lone female detected,0,1,Unknown
+2025-03-20 14:13:57,Lone female detected,0,1,Unknown
+2025-03-20 14:13:59,Lone female detected,0,1,Unknown
+2025-03-20 14:14:01,Lone female detected,0,1,Unknown
+2025-03-20 14:14:03,Lone female detected,0,1,Unknown
+2025-03-20 14:14:08,Lone female detected,0,1,Unknown
+2025-03-20 14:14:12,Lone female detected,0,1,Unknown
+2025-03-20 14:14:15,Lone female detected,0,1,Unknown
+2025-03-20 14:14:18,Lone female detected,0,1,Unknown
+2025-03-20 14:14:20,Lone female detected,0,1,Unknown
+2025-03-20 14:14:23,Lone female detected,0,1,Unknown
+2025-03-20 14:14:26,Lone female detected,0,1,Unknown
+2025-03-20 14:15:34,Lone female detected,0,1,Unknown
+2025-03-20 14:15:36,Lone female detected,0,1,Unknown
+2025-03-20 14:15:38,Lone female detected,0,1,Unknown
+2025-03-20 14:15:42,Lone female detected,0,1,Unknown
+2025-03-20 14:15:48,Lone female detected,0,1,Unknown
+2025-03-20 14:15:51,Lone female detected,0,1,Unknown
+2025-03-20 14:15:55,Lone female detected,0,1,Unknown
+2025-03-20 14:16:00,Violence against a woman,1,1,Unknown
+2025-03-20 14:16:03,Lone female detected,0,1,Unknown
+2025-03-20 15:11:30,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:34,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:37,Lone female detected,0,1,Unknown
+2025-03-20 15:11:41,Violence against a woman,3,2,Unknown
+2025-03-20 15:11:45,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:46,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:49,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:51,Violence against a woman,2,1,Unknown
+2025-03-20 15:11:53,Violence against a woman,2,1,Unknown
+2025-03-20 15:15:29,Lone female detected,0,1,Unknown
+2025-03-20 15:15:47,Lone female detected,0,1,Unknown
+2025-03-20 15:15:51,Lone female detected,0,1,Unknown
+2025-03-20 15:15:53,Lone female detected,0,1,Unknown
+2025-03-20 15:15:58,Lone female detected,0,1,Unknown
+2025-03-20 15:16:03,Lone female detected,0,1,Unknown
+2025-03-20 15:16:06,Lone female detected,0,1,Unknown
+2025-03-20 15:16:23,Lone female detected,0,1,Unknown
+2025-03-20 15:16:28,Violence against a woman,1,1,Unknown
+2025-03-20 15:16:30,Lone female detected,0,1,Unknown
+2025-03-20 15:16:34,Lone female detected,0,1,Unknown
+2025-03-20 15:16:39,Lone female detected,0,1,Unknown
+2025-03-20 15:16:41,Lone female detected,0,1,Unknown
+2025-03-20 15:16:44,Lone female detected,0,1,Unknown
+2025-03-20 15:16:46,Lone female detected,0,1,Unknown
+2025-03-20 15:16:48,Lone female detected,0,1,Unknown
+2025-03-20 15:16:50,Lone female detected,0,1,Unknown
+2025-03-20 15:16:52,Lone female detected,0,1,Unknown
+2025-03-20 15:16:54,Lone female detected,0,1,Unknown
+2025-03-20 15:16:56,Lone female detected,0,1,Unknown
+2025-03-20 15:16:58,Lone female detected,0,1,Unknown
+2025-03-20 15:17:00,Lone female detected,0,1,Unknown
+2025-03-20 15:17:03,Lone female detected,3,1,Unknown
+2025-03-20 15:17:06,Lone female detected,3,1,Unknown
+2025-03-20 15:17:10,Lone female detected,3,1,Unknown
+2025-03-20 15:17:13,Violence against a woman,3,1,Unknown
+2025-03-20 15:17:16,Violence against a woman,3,1,Unknown
+2025-03-20 15:17:33,Lone female detected,0,1,Unknown
+2025-03-20 15:17:37,Lone female detected,0,1,Unknown
+2025-03-20 15:17:39,Lone female detected,0,1,Unknown
+2025-03-20 15:17:44,Lone female detected,0,1,Unknown
+2025-03-20 15:17:49,Lone female detected,0,1,Unknown
+2025-03-20 15:17:52,Lone female detected,0,1,Unknown
+2025-03-20 15:17:54,Lone female detected,0,1,Unknown
+2025-03-20 15:17:57,Lone female detected,0,1,Unknown
+2025-03-20 15:17:59,Lone female detected,0,1,Unknown
+2025-03-20 15:18:01,Lone female detected,0,1,Unknown
+2025-03-20 15:18:03,Lone female detected,0,1,Unknown
+2025-03-20 15:18:05,Lone female detected,0,1,Unknown
+2025-03-20 15:18:07,Lone female detected,0,1,Unknown
+2025-03-20 15:18:28,Lone female detected,0,1,Unknown
+2025-03-20 15:18:34,Lone female detected,1,1,Unknown
+2025-03-20 15:18:37,Lone female detected,0,1,Unknown
+2025-03-20 15:18:40,Violence against a woman,1,1,Unknown
+2025-03-20 15:18:46,Lone female detected,0,1,Unknown
+2025-03-20 15:18:49,Violence against a woman,1,1,Unknown
+2025-03-20 15:18:52,Lone female detected,0,1,Unknown
+2025-03-20 15:18:55,Violence against a woman,1,1,Unknown
+2025-03-20 15:18:57,Lone female detected,0,1,Unknown
+2025-03-20 15:18:59,Lone female detected,0,1,Unknown
+2025-03-20 15:19:02,Lone female detected,0,1,Unknown
+2025-03-20 15:19:04,Lone female detected,0,1,Unknown
+2025-03-20 15:19:06,Lone female detected,0,1,Unknown
+2025-03-20 15:19:21,Violence against a woman,3,1,Unknown
+2025-03-20 15:19:56,Lone female detected,1,1,Unknown
+2025-03-20 15:20:02,Lone female detected,0,1,Unknown
+2025-03-20 15:20:07,Lone female detected,0,1,Unknown
+2025-03-20 15:20:09,Lone female detected,0,1,Unknown
+2025-03-20 15:20:12,Violence against a woman,1,1,Unknown
+2025-03-20 15:20:14,Lone female detected,0,1,Unknown
+2025-03-20 15:20:16,Lone female detected,0,1,Unknown
+2025-03-20 15:20:19,Lone female detected,0,1,Unknown
+2025-03-20 15:20:22,Lone female detected,0,1,Unknown
+2025-03-20 15:20:24,Lone female detected,0,1,Unknown
+2025-03-20 15:20:26,Lone female detected,0,1,Unknown
+2025-03-20 15:20:29,Lone female detected,0,1,Unknown
+2025-03-20 15:20:32,Lone female detected,3,1,Unknown
+2025-03-20 15:20:35,Lone female detected,3,1,Unknown
+2025-03-20 15:20:39,Lone female detected,3,1,Unknown
+2025-03-20 15:20:43,Violence against a woman,3,1,Unknown
+2025-03-20 15:21:09,Lone female detected,0,1,Unknown
+2025-03-20 15:21:13,Lone female detected,0,1,Unknown
+2025-03-20 15:21:15,Lone female detected,0,1,Unknown
+2025-03-20 15:21:19,Lone female detected,0,1,Unknown
+2025-03-20 15:21:25,Lone female detected,0,1,Unknown
+2025-03-20 15:21:28,Lone female detected,0,1,Unknown
+2025-03-20 15:21:30,Lone female detected,0,1,Unknown
+2025-03-20 15:21:32,Lone female detected,0,1,Unknown
+2025-03-20 15:21:34,Lone female detected,0,1,Unknown
+2025-03-20 15:21:36,Lone female detected,0,1,Unknown
+2025-03-20 15:21:38,Lone female detected,0,1,Unknown
+2025-03-20 15:21:40,Lone female detected,0,1,Unknown
+2025-03-20 15:21:42,Lone female detected,0,1,Unknown
+2025-03-20 15:21:44,Lone female detected,0,1,Unknown
+2025-03-20 15:21:46,Lone female detected,0,1,Unknown
+2025-03-20 15:21:49,Lone female detected,3,1,Unknown
+2025-03-20 15:21:51,Lone female detected,3,1,Unknown
+2025-03-20 15:21:56,Lone female detected,3,1,Unknown
+2025-03-20 15:24:37,Lone female detected,0,1,Unknown
+2025-03-20 15:24:43,Lone female detected,1,1,Unknown
+2025-03-20 15:24:45,Lone female detected,0,1,Unknown
+2025-03-20 15:24:49,Violence against a woman,1,1,Unknown
+2025-03-20 15:24:54,Lone female detected,0,1,Unknown
+2025-03-20 15:24:56,Lone female detected,0,1,Unknown
+2025-03-20 15:24:58,Lone female detected,0,1,Unknown
+2025-03-20 15:25:00,Lone female detected,0,1,Unknown
+2025-03-20 15:25:02,Violence against a woman,1,1,Unknown
+2025-03-20 15:25:04,Lone female detected,0,1,Unknown
+2025-03-20 15:25:06,Lone female detected,0,1,Unknown
+2025-03-20 15:25:08,Lone female detected,0,1,Unknown
+2025-03-20 15:25:16,Violence against a woman,3,1,Unknown
+2025-03-20 15:25:18,Lone female detected,3,1,Unknown
+2025-03-20 15:26:31,Violence against a woman,1,1,Unknown
+2025-03-20 15:26:32,Violence against a woman,1,1,Unknown
+2025-03-20 15:26:34,Violence against a woman,1,1,Unknown
+2025-03-20 15:26:55,Lone female detected,0,1,Unknown
+2025-03-20 15:27:10,Lone female detected,0,1,Unknown
+2025-03-20 15:27:12,Lone female detected,0,1,Unknown
+2025-03-20 15:27:14,Violence against a woman,1,1,Unknown
+2025-03-20 15:27:17,Lone female detected,0,1,Unknown
+2025-03-20 15:27:19,Lone female detected,0,1,Unknown
+2025-03-20 15:27:22,Lone female detected,0,1,Unknown
+2025-03-20 15:27:24,Lone female detected,0,1,Unknown
+2025-03-20 15:27:26,Lone female detected,0,1,Unknown
+2025-03-20 15:27:28,Lone female detected,0,1,Unknown
+2025-03-20 15:27:29,Lone female detected,0,1,Unknown
+2025-03-20 15:27:32,Violence against a woman,3,1,Unknown
+2025-03-20 15:27:35,Lone female detected,3,1,Unknown
+2025-03-20 15:27:38,Lone female detected,3,1,Unknown
+2025-03-20 15:27:41,Lone female detected,3,1,Unknown
+2025-03-20 15:27:44,Violence against a woman,3,1,Unknown
+2025-03-20 15:28:19,Lone female detected,0,1,Unknown
+2025-03-20 15:28:20,Lone female detected,0,1,Unknown
+2025-03-20 15:28:22,Lone female detected,0,1,Unknown
+2025-03-20 15:28:24,Lone female detected,0,1,Unknown
+2025-03-20 15:28:26,Lone female detected,0,1,Unknown
+2025-03-20 15:28:28,Lone female detected,0,1,Unknown
+2025-03-20 15:28:29,Lone female detected,0,1,Unknown
+2025-03-20 15:28:31,Lone female detected,0,1,Unknown
+2025-03-20 15:28:33,Lone female detected,0,1,Unknown
+2025-03-20 15:28:35,Lone female detected,0,1,Unknown
+2025-03-20 15:28:37,Lone female detected,0,1,Unknown
+2025-03-20 15:28:40,Lone female detected,0,1,Unknown
+2025-03-20 15:28:42,Lone female detected,0,1,Unknown
+2025-03-20 15:28:44,Lone female detected,0,1,Unknown
+2025-03-20 15:28:45,Lone female detected,0,1,Unknown
+2025-03-20 15:28:47,Lone female detected,0,1,Unknown
+2025-03-20 15:28:49,Lone female detected,0,1,Unknown
+2025-03-20 15:28:51,Lone female detected,0,1,Unknown
+2025-03-20 15:28:53,Lone female detected,0,1,Unknown
+2025-03-20 15:28:55,Lone female detected,0,1,Unknown
+2025-03-20 15:28:57,Lone female detected,0,1,Unknown
+2025-03-20 15:28:59,Lone female detected,0,1,Unknown
+2025-03-20 15:29:01,Lone female detected,0,1,Unknown
+2025-03-20 15:29:03,Lone female detected,0,1,Unknown
+2025-03-20 15:29:05,Lone female detected,0,1,Unknown
+2025-03-20 15:29:07,Lone female detected,0,1,Unknown
+2025-03-20 15:29:08,Lone female detected,0,1,Unknown
+2025-03-20 15:29:10,Lone female detected,0,1,Unknown
+2025-03-20 15:29:12,Lone female detected,0,1,Unknown
+2025-03-20 15:29:14,Lone female detected,0,1,Unknown
+2025-03-20 15:29:16,Lone female detected,0,1,Unknown
+2025-03-20 15:29:18,Lone female detected,0,1,Unknown
+2025-03-20 15:29:20,Lone female detected,0,1,Unknown
+2025-03-20 15:29:22,Lone female detected,0,1,Unknown
+2025-03-20 15:29:24,Lone female detected,0,1,Unknown
+2025-03-20 15:29:26,Lone female detected,0,1,Unknown
+2025-03-20 15:29:31,Lone female detected,0,1,Unknown
+2025-03-20 15:29:34,Lone female detected,0,1,Unknown
+2025-03-20 15:29:37,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:39,Lone female detected,1,1,Unknown
+2025-03-20 15:29:43,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:46,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:49,Lone female detected,0,1,Unknown
+2025-03-20 15:29:51,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:54,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:56,Violence against a woman,1,1,Unknown
+2025-03-20 15:29:58,Violence against a woman,1,1,Unknown
+2025-03-20 15:30:01,Violence against a woman,1,1,Unknown
+2025-03-20 15:30:04,Violence against a woman,1,1,Unknown
+2025-03-20 15:30:07,Violence against a woman,1,1,Unknown
+2025-03-20 15:30:20,Lone female detected,3,1,Unknown
+2025-03-20 15:30:25,Lone female detected,3,1,Unknown
+2025-03-20 15:30:51,Lone female detected,3,1,Unknown
+2025-03-20 15:30:55,Lone female detected,3,1,Unknown
+2025-03-20 15:30:58,Violence against a woman,3,1,Unknown
+2025-03-20 15:31:01,Lone female detected,3,1,Unknown
+2025-03-20 15:31:05,Lone female detected,3,1,Unknown
+2025-03-20 15:31:10,Lone female detected,3,1,Unknown
+2025-03-20 15:38:58,Violence against a woman,1,1,Unknown
+2025-03-20 15:39:29,Lone female detected,0,1,Unknown
+2025-03-20 15:39:33,Lone female detected,0,1,Unknown
+2025-03-20 15:39:35,Lone female detected,0,1,Unknown
+2025-03-20 15:39:37,Lone female detected,0,1,Unknown
+2025-03-20 15:39:40,Lone female detected,0,1,Unknown
+2025-03-20 15:39:42,Lone female detected,0,1,Unknown
+2025-03-20 15:39:44,Lone female detected,0,1,Unknown
+2025-03-20 15:39:46,Lone female detected,0,1,Unknown
+2025-03-20 15:40:33,Violence against a woman,3,1,Unknown
+2025-03-20 15:40:35,Lone female detected,0,1,Unknown
+2025-03-20 15:40:37,Lone female detected,0,1,Unknown
+2025-03-20 15:40:39,Lone female detected,0,1,Unknown
+2025-03-20 15:40:41,Lone female detected,0,1,Unknown
+2025-03-20 15:40:43,Lone female detected,0,1,Unknown
+2025-03-20 15:40:45,Lone female detected,0,1,Unknown
+2025-03-20 15:40:47,Lone female detected,0,1,Unknown
+2025-03-20 15:40:54,Violence against a woman,1,1,Unknown
+2025-03-20 15:41:26,Violence against a woman,1,1,Unknown
+2025-03-20 15:41:29,Violence against a woman,1,1,Unknown
+2025-03-20 15:41:30,Violence against a woman,1,1,Unknown
+2025-03-20 15:41:34,Lone female detected,1,1,Unknown
+2025-03-20 15:41:36,Violence against a woman,1,1,Unknown
+2025-03-20 15:41:57,Violence against a woman,3,1,Unknown
+2025-03-20 15:42:13,Lone female detected,2,1,Unknown
+2025-03-20 15:42:19,Violence against a woman,1,1,Unknown
+2025-03-20 15:42:34,Violence against a woman,1,1,Unknown
+2025-03-20 15:42:36,Lone female detected,1,1,Unknown
+2025-03-20 15:42:46,Lone female detected,0,1,Unknown
+2025-03-20 15:42:48,Lone female detected,0,1,Unknown
+2025-03-20 15:42:49,Lone female detected,0,1,Unknown
+2025-03-20 15:42:51,Lone female detected,0,1,Unknown
+2025-03-20 15:42:52,Lone female detected,0,1,Unknown
+2025-03-20 15:42:54,Lone female detected,2,1,Unknown
+2025-03-20 15:42:56,Lone female detected,0,1,Unknown
+2025-03-20 15:42:57,Lone female detected,0,1,Unknown
+2025-03-20 15:43:00,Lone female detected,1,1,Unknown
+2025-03-20 15:43:04,Violence against a woman,1,1,Unknown
+2025-03-20 15:43:06,Violence against a woman,1,1,Unknown
+2025-03-20 15:43:07,Lone female detected,1,1,Unknown
+2025-03-20 15:43:14,Lone female detected,0,1,Unknown
+2025-03-20 15:43:26,Lone female detected,0,1,Unknown
+2025-03-20 15:43:28,Lone female detected,0,1,Unknown
+2025-03-20 15:43:45,Lone female detected,0,1,Unknown
+2025-03-20 15:43:47,Lone female detected,0,1,Unknown
+2025-03-20 15:44:09,Lone female detected,0,1,Unknown
+2025-03-20 15:44:22,Lone female detected,0,1,Unknown
+2025-03-20 15:44:23,Lone female detected,0,1,Unknown
+2025-03-20 15:44:25,Lone female detected,0,1,Unknown
+2025-03-20 15:44:26,Lone female detected,0,1,Unknown
+2025-03-20 15:44:27,Lone female detected,0,1,Unknown
+2025-03-20 15:44:29,Lone female detected,0,1,Unknown
+2025-03-20 15:44:30,Lone female detected,0,1,Unknown
+2025-03-20 15:44:32,Lone female detected,0,1,Unknown
+2025-03-20 15:44:33,Lone female detected,0,1,Unknown
+2025-03-20 15:44:34,Lone female detected,0,1,Unknown
+2025-03-20 15:44:36,Lone female detected,0,1,Unknown
+2025-03-20 15:44:37,Lone female detected,0,1,Unknown
+2025-03-20 15:44:39,Lone female detected,0,1,Unknown
+2025-03-20 15:44:41,Lone female detected,1,1,Unknown
+2025-03-20 15:44:43,Lone female detected,1,1,Unknown
+2025-03-20 15:44:54,Violence against a woman,2,1,Unknown
+2025-03-20 15:47:28,Lone female detected,0,1,Unknown
+2025-03-20 15:47:45,Violence against a woman,1,1,Unknown
+2025-03-20 15:47:49,Violence against a woman,1,1,Unknown
+2025-03-20 15:47:59,Lone female detected,0,1,Unknown
+2025-03-20 15:48:03,Lone female detected,0,1,Unknown
+2025-03-20 15:48:05,Lone female detected,0,1,Unknown
+2025-03-20 15:48:07,Lone female detected,0,1,Unknown
+2025-03-20 15:48:10,Lone female detected,0,1,Unknown
+2025-03-20 15:48:15,Violence against a woman,1,1,Unknown
+2025-03-20 15:48:17,Lone female detected,0,1,Unknown
+2025-03-20 15:50:20,Lone female detected,0,1,Unknown
+2025-03-20 15:50:32,Lone female detected,0,1,Unknown
+2025-03-20 15:50:36,Lone female detected,0,1,Unknown
+2025-03-20 15:50:41,Lone female detected,0,1,Unknown
+2025-03-20 15:51:47,Lone female detected,0,1,Unknown
+2025-03-20 15:51:52,Lone female detected,0,1,Unknown
+2025-03-20 15:51:57,Violence against a woman,1,1,Unknown
+2025-03-20 15:51:58,Lone female detected,0,1,Unknown
+2025-03-20 15:52:03,Lone female detected,0,1,Unknown
+2025-03-20 15:52:04,Lone female detected,0,1,Unknown
+2025-03-20 15:52:07,Lone female detected,0,1,Unknown
+2025-03-20 15:52:09,Lone female detected,0,1,Unknown
+2025-03-20 16:56:15,Lone female detected,0,1,Unknown
+2025-03-20 16:56:24,Lone female detected,0,1,Unknown
+2025-03-20 16:56:26,Lone female detected,0,1,Unknown
+2025-03-20 16:56:28,Lone female detected,0,1,Unknown
+2025-03-20 16:56:31,Lone female detected,0,1,Unknown
+2025-03-20 16:56:33,Lone female detected,0,1,Unknown
+2025-03-20 16:56:34,Lone female detected,0,1,Unknown
+2025-03-20 16:56:37,Lone female detected,1,1,Unknown
+2025-03-20 16:56:43,Violence against a woman,1,1,Unknown
+2025-03-20 16:56:47,Lone female detected,0,1,Unknown
+2025-03-20 16:56:49,Lone female detected,0,1,Unknown
+2025-03-20 16:56:52,Lone female detected,0,1,Unknown
+2025-03-20 16:56:54,Lone female detected,0,1,Unknown
+2025-03-20 16:56:56,Lone female detected,0,1,Unknown
+2025-03-20 16:56:58,Lone female detected,0,1,Unknown
+2025-03-20 16:57:00,Lone female detected,0,1,Unknown
+2025-03-20 16:57:02,Lone female detected,0,1,Unknown
+2025-03-20 16:57:04,Lone female detected,0,1,Unknown
+2025-03-20 16:57:06,Violence against a woman,2,1,Unknown
+2025-03-20 16:57:08,Violence against a woman,1,1,Unknown
+2025-03-20 16:57:10,Violence against a woman,1,1,Unknown
+2025-03-20 16:57:12,Violence against a woman,3,1,Unknown
+2025-03-20 16:57:16,Violence against a woman,1,1,Unknown
+2025-03-20 16:57:18,Violence against a woman,1,1,Unknown
+2025-03-20 16:57:38,Lone female detected,0,1,Unknown
+2025-03-20 17:01:16,Lone female detected,0,1,Unknown
+2025-03-20 17:01:22,Violence against a woman,1,1,Unknown
+2025-03-20 17:01:25,Lone female detected,0,1,Unknown
+2025-03-20 17:01:26,Lone female detected,0,1,Unknown
+2025-03-20 17:01:28,Lone female detected,0,1,Unknown
+2025-03-20 17:01:30,Lone female detected,0,1,Unknown
+2025-03-20 17:01:32,Lone female detected,0,1,Unknown
+2025-03-20 17:01:34,Lone female detected,0,1,Unknown
+2025-03-20 17:01:36,Lone female detected,0,1,Unknown
+2025-03-20 17:01:37,Lone female detected,0,1,Unknown
+2025-03-20 17:06:00,Lone female detected,0,1,Unknown
+2025-03-20 17:06:06,Violence against a woman,1,1,Unknown
+2025-03-20 17:06:09,Lone female detected,0,1,Unknown
+2025-03-20 17:06:11,Lone female detected,0,1,Unknown
+2025-03-20 17:06:14,Violence against a woman,1,1,Unknown
+2025-03-20 17:06:17,Lone female detected,0,1,Unknown
+2025-03-20 17:06:19,Lone female detected,0,1,Unknown
+2025-03-20 17:06:22,Lone female detected,0,1,Unknown
+2025-03-20 17:06:23,Lone female detected,0,1,Unknown
+2025-03-20 17:06:25,Lone female detected,0,1,Unknown
+2025-03-20 17:06:28,Violence against a woman,3,2,Unknown
+2025-03-20 17:06:30,Lone female detected,0,1,Unknown
+2025-03-20 17:06:33,Violence against a woman,2,2,Unknown
+2025-03-20 17:06:34,Lone female detected,0,1,Unknown
+2025-03-20 19:41:35,Lone female detected,0,1,Unknown
+2025-03-20 19:41:41,Violence against a woman,1,1,Unknown
+2025-03-20 19:41:44,Lone female detected,0,1,Unknown
+2025-03-20 19:41:47,Lone female detected,0,1,Unknown
+2025-03-20 19:41:50,Lone female detected,0,1,Unknown
+2025-03-20 19:41:52,Lone female detected,0,1,Unknown
+2025-03-20 19:41:55,Lone female detected,0,1,Unknown
+2025-03-20 19:41:58,Lone female detected,0,1,Unknown
+2025-03-20 19:42:00,Lone female detected,0,1,Unknown
+2025-03-20 19:42:02,Lone female detected,0,1,Unknown
+2025-03-20 19:42:07,Violence against a woman,1,3,Unknown
+2025-03-20 19:42:10,Violence against a woman,3,1,Unknown
+2025-03-20 19:54:47,Violence against a woman,1,1,Unknown
+2025-03-20 19:54:53,Lone female detected,0,1,Unknown
+2025-03-20 19:54:56,Lone female detected,0,1,Unknown
+2025-03-20 19:54:57,Lone female detected,0,1,Unknown
+2025-03-20 19:54:59,Lone female detected,0,1,Unknown
+2025-03-20 19:55:01,Lone female detected,0,1,Unknown
+2025-03-20 19:55:03,Lone female detected,0,1,Unknown
+2025-03-20 19:55:05,Lone female detected,0,1,Unknown
+2025-03-20 19:55:07,Lone female detected,0,1,Unknown
+2025-03-20 19:55:09,Lone female detected,0,1,Unknown
+2025-03-20 19:55:12,Violence against a woman,2,2,Unknown
+2025-03-20 19:55:14,Lone female detected,1,1,Unknown
+2025-03-20 19:55:16,Lone female detected,1,1,Unknown
+2025-03-20 19:55:19,Violence against a woman,4,1,Unknown
+2025-03-20 22:51:33,Violence against a woman,2,1,Unknown
+2025-03-20 23:09:17,Lone female detected,2,1,Unknown
+2025-03-20 23:09:27,Violence against a woman,1,1,Unknown
+2025-03-20 23:09:31,Lone female detected,3,1,Unknown
+2025-03-20 23:09:36,Violence against a woman,1,1,Unknown
+2025-03-20 23:09:38,Violence against a woman,1,1,Unknown
+2025-03-20 23:09:59,Violence against a woman,1,1,Unknown
+2025-03-20 23:10:01,Violence against a woman,1,1,Unknown
+2025-03-20 23:10:03,Lone female detected,2,1,Unknown
+2025-03-20 23:10:07,Violence against a woman,1,1,Unknown
+2025-03-20 23:10:10,Violence against a woman,1,1,Unknown
+2025-03-20 23:10:13,Violence against a woman,1,1,Unknown
+2025-03-20 23:10:15,Violence against a woman,1,1,Unknown
+2025-03-21 01:10:19,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:25,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:27,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:29,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:31,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:33,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:36,Lone female detected,2,1,Unknown
+2025-03-21 01:10:39,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:41,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:43,Lone female detected,2,1,Unknown
+2025-03-21 01:10:45,Lone female detected,2,1,Unknown
+2025-03-21 01:10:48,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:50,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:52,Violence against a woman,1,1,Unknown
+2025-03-21 01:10:54,Violence against a woman,2,1,Unknown
+2025-03-21 01:10:56,Violence against a woman,2,1,Unknown
+2025-03-21 01:11:00,Lone female detected,3,1,Unknown
+2025-03-21 01:11:07,Violence against a woman,2,1,Unknown
+2025-03-21 01:11:10,Lone female detected,2,1,Unknown
+2025-03-21 01:16:37,Lone female detected,0,1,Unknown
+2025-03-21 01:16:37,Lone female detected,0,1,Unknown
+2025-03-21 01:16:40,Lone female detected,0,1,Unknown
+2025-03-21 01:16:43,Lone female detected,0,1,Unknown
+2025-03-21 01:16:43,Lone female detected,0,1,Unknown
+2025-03-21 01:16:47,Lone female detected,0,1,Unknown
+2025-03-21 01:16:48,Lone female detected,0,1,Unknown
+2025-03-21 01:29:21,Violence against a woman,2,1,Unknown
+2025-03-21 01:29:35,Lone female detected,1,1,Unknown
+2025-03-21 01:29:40,Lone female detected,2,1,Unknown
+2025-03-21 01:29:44,Violence against a woman,2,1,Unknown
+2025-03-21 01:29:47,Lone female detected,2,1,Unknown
+2025-03-21 01:29:52,Lone female detected,2,1,Unknown
+2025-03-21 01:29:57,Violence against a woman,2,1,Unknown
+2025-03-21 01:30:01,Violence against a woman,2,1,Unknown
+2025-03-21 01:30:04,Lone female detected,1,1,Unknown
+2025-03-21 01:30:09,Lone female detected,3,1,Unknown
+2025-03-21 01:30:13,Violence against a woman,3,1,Unknown
+2025-03-21 01:30:16,Violence against a woman,3,1,Unknown
+2025-03-21 01:30:19,Violence against a woman,3,1,Unknown
+2025-03-21 01:30:37,Violence against a woman,1,1,Unknown
+2025-03-21 01:30:41,Violence against a woman,2,1,Unknown
+2025-03-21 01:30:47,Violence against a woman,3,1,Unknown
+2025-03-21 01:32:39,Violence against a woman,3,1,Unknown
+2025-03-21 01:32:57,Violence against a woman,2,1,Unknown
+2025-03-21 01:33:10,Violence against a woman,3,1,Unknown
+2025-03-21 01:33:12,Violence against a woman,3,1,Unknown
+2025-03-21 01:33:16,Violence against a woman,3,1,Unknown
+2025-03-21 01:33:19,Violence against a woman,3,1,Unknown
+2025-03-21 01:34:01,Violence against a woman,3,1,Unknown
+2025-03-21 01:34:39,Violence against a woman,4,1,Unknown
+2025-03-21 01:36:56,Violence against a woman,4,1,Unknown
+2025-03-21 01:44:38,Lone female detected,2,1,Unknown
+2025-03-21 01:44:48,Violence against a woman,1,1,Unknown
+2025-03-21 01:44:52,Lone female detected,0,1,Unknown
+2025-03-21 01:44:56,Lone female detected,0,1,Unknown
+2025-03-21 01:45:01,Lone female detected,0,1,Unknown
+2025-03-21 01:45:06,Lone female detected,0,1,Unknown
+2025-03-21 01:45:10,Lone female detected,0,1,Unknown
+2025-03-21 01:55:17,Violence against a woman,2,1,Unknown
+2025-03-21 01:56:02,Lone female detected,0,1,Unknown
+2025-03-21 01:56:08,Violence against a woman,1,1,Unknown
+2025-03-21 01:56:11,Lone female detected,0,1,Unknown
+2025-03-21 01:56:14,Lone female detected,0,1,Unknown
+2025-03-21 01:56:17,Lone female detected,0,1,Unknown
+2025-03-21 01:56:20,Lone female detected,0,1,Unknown
+2025-03-21 01:56:23,Lone female detected,0,1,Unknown
+2025-03-21 01:56:26,Lone female detected,0,1,Unknown
+2025-03-21 01:56:29,Violence against a woman,1,1,Unknown
+2025-03-21 01:56:32,Lone female detected,1,1,Unknown
+2025-03-21 01:56:35,Violence against a woman,1,1,Unknown
+2025-03-21 01:56:47,Violence against a woman,1,1,Unknown
+2025-03-21 04:19:21,Violence against a woman,7,4,Unknown
+2025-03-21 04:19:21,Violence against a woman,7,4,Unknown
+2025-03-21 04:19:31,Violence against a woman,4,3,Unknown
+2025-03-21 04:19:31,Violence against a woman,5,5,Unknown
+2025-03-21 04:19:37,Violence against a woman,3,3,Unknown
+2025-03-21 04:19:40,Violence against a woman,7,3,Unknown
+2025-03-21 04:19:42,Violence against a woman,4,2,Unknown
+2025-03-21 04:19:45,Violence against a woman,3,3,Unknown
+2025-03-21 04:19:46,Violence against a woman,3,3,Unknown
+2025-03-21 04:20:03,Violence against a woman,1,1,Unknown
+2025-03-21 04:20:04,Violence against a woman,3,1,Unknown
+2025-03-21 04:20:07,Violence against a woman,2,2,Unknown
+2025-03-21 04:20:08,Violence against a woman,1,1,Unknown
+2025-03-21 04:20:10,Lone female detected,0,1,Unknown
+2025-03-21 04:23:12,Violence against a woman,2,1,Unknown
+2025-03-21 04:23:17,Lone female detected,2,1,Unknown
+2025-03-21 04:23:20,Violence against a woman,2,1,Unknown
+2025-03-21 04:23:22,Lone female detected,2,1,Unknown
+2025-03-21 04:23:25,Violence against a woman,2,1,Unknown
+2025-03-21 04:23:29,Lone female detected,2,1,Unknown
+2025-03-21 04:23:33,Lone female detected,2,1,Unknown
+2025-03-21 04:23:36,Violence against a woman,2,1,Unknown
+2025-03-21 04:23:39,Violence against a woman,2,1,Unknown
+2025-03-21 04:23:42,Violence against a woman,3,1,Unknown
+2025-03-21 04:23:49,Violence against a woman,3,2,Unknown
+2025-03-21 04:23:52,Violence against a woman,1,3,Unknown
+2025-03-21 04:23:59,Violence against a woman,3,1,Unknown
+2025-03-21 04:24:02,Violence against a woman,3,1,Unknown
+2025-03-21 04:24:05,Lone female detected,0,1,Unknown
+2025-03-21 04:24:10,Violence against a woman,1,1,Unknown
+2025-03-21 04:45:29,Lone female detected,0,1,Unknown
+2025-03-21 04:45:36,Lone female detected,0,1,Unknown
+2025-03-21 04:45:38,Lone female detected,0,1,Unknown
+2025-03-21 04:45:40,Lone female detected,0,1,Unknown
+2025-03-21 04:45:42,Lone female detected,0,1,Unknown
+2025-03-21 04:45:44,Lone female detected,0,1,Unknown
+2025-03-21 04:45:46,Lone female detected,0,1,Unknown
+2025-03-21 04:45:48,Lone female detected,0,1,Unknown
+2025-03-21 04:45:49,Lone female detected,0,1,Unknown
+2025-03-21 04:45:51,Lone female detected,0,1,Unknown
+2025-03-21 04:45:53,Lone female detected,0,1,Unknown
+2025-03-21 04:45:55,Lone female detected,0,1,Unknown
+2025-03-21 04:45:57,Lone female detected,0,1,Unknown
+2025-03-21 04:46:01,Lone female detected,0,1,Unknown
+2025-03-21 04:46:03,Lone female detected,0,1,Unknown
+2025-03-21 04:46:12,Lone female detected,0,1,Unknown
+2025-03-21 04:46:14,Lone female detected,0,1,Unknown
+2025-03-21 04:46:29,Lone female detected,0,1,Unknown
+2025-03-21 04:46:31,Lone female detected,0,1,Unknown
+2025-03-21 04:46:33,Lone female detected,0,1,Unknown
+2025-03-21 04:49:21,Lone female detected,0,1,Unknown
+2025-03-21 04:49:27,Lone female detected,0,1,Unknown
+2025-03-21 04:49:30,Lone female detected,0,1,Unknown
+2025-03-21 04:49:32,Lone female detected,0,1,Unknown
+2025-03-21 04:49:34,Lone female detected,0,1,Unknown
+2025-03-21 04:49:35,Lone female detected,0,1,Unknown
+2025-03-21 04:49:37,Lone female detected,0,1,Unknown
+2025-03-21 04:49:40,Lone female detected,0,1,Unknown
+2025-03-21 04:49:43,Lone female detected,0,1,Unknown
+2025-03-21 04:49:45,Lone female detected,0,1,Unknown
+2025-03-21 05:00:17,Lone female detected,0,1,Unknown
+2025-03-21 05:00:22,Lone female detected,0,1,Unknown
+2025-03-21 05:00:25,Lone female detected,0,1,Unknown
+2025-03-21 05:00:27,Lone female detected,0,1,Unknown
+2025-03-21 05:00:29,Lone female detected,0,1,Unknown
+2025-03-21 05:00:31,Lone female detected,0,1,Unknown
+2025-03-21 05:00:33,Lone female detected,0,1,Unknown
+2025-03-21 05:00:35,Lone female detected,0,1,Unknown
+2025-03-21 05:00:37,Lone female detected,0,1,Unknown
+2025-03-21 05:00:39,Lone female detected,0,1,Unknown
+2025-03-21 05:00:41,Lone female detected,0,1,Unknown
+2025-03-21 05:00:44,Violence against a woman,1,1,Unknown
+2025-03-21 05:00:46,Violence against a woman,1,1,Unknown
+2025-03-21 05:00:49,Violence against a woman,1,2,Unknown
+2025-03-21 05:00:51,Violence against a woman,2,1,Unknown
+2025-03-21 05:00:53,Violence against a woman,2,1,Unknown
+2025-03-21 05:00:54,Violence against a woman,1,1,Unknown
+2025-03-21 05:00:56,Violence against a woman,2,2,Unknown
+2025-03-21 05:00:59,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:01,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:03,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:05,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:07,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:09,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:12,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:14,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:16,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:18,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:20,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:22,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:25,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:27,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:29,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:31,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:33,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:35,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:37,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:39,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:41,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:43,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:45,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:48,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:49,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:51,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:54,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:56,Violence against a woman,2,2,Unknown
+2025-03-21 05:01:58,Violence against a woman,2,2,Unknown
+2025-03-21 05:02:00,Violence against a woman,2,2,Unknown
+2025-03-21 05:06:19,Lone female detected,0,1,Unknown
+2025-03-21 05:06:25,Lone female detected,0,1,Unknown
+2025-03-21 05:06:27,Lone female detected,0,1,Unknown
+2025-03-21 05:06:29,Lone female detected,0,1,Unknown
+2025-03-21 05:06:31,Lone female detected,0,1,Unknown
+2025-03-21 05:06:33,Lone female detected,0,1,Unknown
+2025-03-21 05:06:35,Lone female detected,0,1,Unknown
+2025-03-21 05:06:37,Lone female detected,0,1,Unknown
+2025-03-21 05:06:39,Lone female detected,0,1,Unknown
+2025-03-21 05:06:42,Lone female detected,0,1,Unknown
+2025-03-21 05:06:44,Lone female detected,0,1,Unknown
+2025-03-21 05:06:46,Lone female detected,0,1,Unknown
+2025-03-21 05:06:48,Lone female detected,0,1,Unknown
+2025-03-21 05:06:51,Violence against a woman,1,2,Unknown
+2025-03-21 05:06:53,Violence against a woman,2,1,Unknown
+2025-03-21 05:06:55,Violence against a woman,2,1,Unknown
+2025-03-21 05:06:57,Violence against a woman,1,2,Unknown
+2025-03-21 05:06:59,Violence against a woman,1,2,Unknown
+2025-03-21 05:07:01,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:03,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:05,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:07,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:10,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:12,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:14,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:16,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:18,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:20,Violence against a woman,2,1,Unknown
+2025-03-21 05:07:22,Violence against a woman,2,1,Unknown
+2025-03-21 05:11:51,Lone female detected,0,1,Unknown
+2025-03-21 05:12:03,Lone female detected,0,1,Unknown
+2025-03-21 05:12:08,Lone female detected,0,1,Unknown
+2025-03-21 05:12:12,Lone female detected,0,1,Unknown
+2025-03-21 05:12:15,Lone female detected,0,1,Unknown
+2025-03-21 05:12:18,Lone female detected,0,1,Unknown
+2025-03-21 05:12:21,Lone female detected,0,1,Unknown
+2025-03-21 05:12:26,Violence against a woman,4,1,Unknown
+2025-03-21 05:12:37,Violence against a woman,1,1,Unknown
+2025-03-21 05:12:41,Lone female detected,0,1,Unknown
+2025-03-21 05:12:44,Violence against a woman,0,3,Unknown
+2025-03-21 05:12:48,Violence against a woman,1,2,Unknown
+2025-03-21 05:12:49,Lone female detected,0,1,Unknown
+2025-03-21 05:12:53,Lone female detected,3,1,Unknown
+2025-03-21 05:49:58,Violence against a woman,1,1,Unknown
+2025-03-21 05:50:02,Lone female detected,0,1,Unknown
+2025-03-21 05:50:05,Lone female detected,0,1,Unknown
+2025-03-21 05:50:08,Violence against a woman,1,1,Unknown
+2025-03-21 05:50:11,Lone female detected,0,1,Unknown
+2025-03-21 05:50:14,Lone female detected,0,1,Unknown
+2025-03-21 05:50:17,Lone female detected,0,1,Unknown
+2025-03-21 05:50:22,Lone female detected,0,1,Unknown
+2025-03-21 05:50:24,Lone female detected,0,1,Unknown
+2025-03-21 05:50:40,Lone female detected,0,1,Unknown
+2025-03-21 05:50:46,Violence against a woman,1,1,Unknown
+2025-03-21 05:50:50,Lone female detected,0,1,Unknown
+2025-03-21 05:50:52,Lone female detected,0,1,Unknown
+2025-03-21 05:50:55,Lone female detected,0,1,Unknown
+2025-03-21 05:50:58,Lone female detected,0,1,Unknown
+2025-03-21 05:51:01,Lone female detected,0,1,Unknown
+2025-03-21 05:51:03,Lone female detected,0,1,Unknown
+2025-03-21 05:51:06,Lone female detected,0,1,Unknown
+2025-03-21 07:09:54,Lone female detected,0,1,Unknown
+2025-03-21 09:27:53,Violence against a woman,2,1,vit
+2025-03-21 09:28:14,Violence against a woman,1,1,vit
+2025-03-21 09:28:51,Violence against a woman,3,3,vit
+2025-03-21 09:29:33,Violence against a woman,1,1,vit
+2025-03-21 09:30:51,Violence against a woman,4,1,vit
+2025-03-21 09:32:22,Violence against a woman,3,1,vit
+2025-03-21 09:46:31,Lone female detected,0,1,vit
+2025-03-21 09:47:03,Violence against a woman,1,1,vit
+2025-03-21 09:47:12,Lone female detected,0,1,vit
+2025-03-21 09:47:18,Lone female detected,0,1,vit
+2025-03-21 09:53:10,Lone female detected,0,1,vit
+2025-03-21 09:53:20,Lone female detected,0,1,vit
+2025-03-21 09:53:30,Lone female detected,0,1,vit
+2025-03-21 09:56:37,Lone female detected,0,1,vit
+2025-03-21 09:57:14,Lone female detected,0,1,vit
+2025-03-21 09:57:22,Lone female detected,0,1,vit
+2025-03-21 09:57:34,Violence against a woman,1,1,vit
+2025-03-21 10:01:05,Violence against a woman,2,1,vit
+2025-03-21 10:01:26,Lone female detected,1,1,vit
+2025-03-21 10:01:37,Lone female detected,1,1,vit
+2025-03-21 10:01:47,Lone female detected,1,1,vit
+2025-03-21 10:02:28,Lone female detected,1,1,vit
+2025-03-21 10:02:45,Lone female detected,1,1,vit
+2025-03-21 10:03:27,Lone female detected,0,1,vit
+2025-03-21 10:04:30,Lone female detected,0,1,vit
+2025-03-21 10:05:03,Lone female detected,0,1,vit
+2025-03-21 10:05:13,Lone female detected,0,1,vit
+2025-03-21 10:05:50,Lone female detected,0,1,vit
+2025-03-21 10:06:01,Lone female detected,0,1,vit
+2025-03-21 10:06:31,Violence against a woman,1,1,vit
+2025-03-21 10:06:50,Violence against a woman,1,1,vit
+2025-03-21 10:22:20,Violence against a woman,1,1,vit
+2025-03-21 10:23:16,Violence against a woman,1,1,vit
+2025-03-21 10:23:32,Violence against a woman,1,1,vit
+2025-03-21 10:24:21,Violence against a woman,1,1,vit
+2025-03-21 10:25:45,Violence against a woman,1,1,vit
+2025-03-21 10:26:03,Violence against a woman,1,1,vit
+2025-03-21 10:26:22,Violence against a woman,1,1,vit
+2025-03-21 10:27:23,Violence against a woman,1,1,vit
+2025-03-21 10:28:48,Violence against a woman,1,1,vit
+2025-03-21 10:29:07,Violence against a woman,1,1,vit
+2025-03-21 10:29:43,Violence against a woman,1,1,vit
+2025-03-21 10:32:04,Violence against a woman,1,1,vit
+2025-03-21 10:33:55,Violence against a woman,1,1,vit
+2025-03-21 10:34:11,Violence against a woman,1,1,vit
+2025-03-21 10:36:04,Lone female detected,0,1,vit
+2025-03-21 10:37:04,Violence against a woman,1,1,vit
+2025-03-21 10:37:39,Violence against a woman,1,1,vit
+2025-03-21 10:37:55,Violence against a woman,1,1,vit
+2025-03-21 10:38:10,Violence against a woman,1,1,vit
+2025-03-21 10:39:10,Violence against a woman,1,1,vit
+2025-03-21 10:39:28,Violence against a woman,1,1,vit
+2025-03-21 10:41:26,Violence against a woman,1,1,vit
+2025-03-21 10:41:36,Violence against a woman,1,1,vit
+2025-03-21 10:41:46,Violence against a woman,1,1,vit
+2025-03-21 10:41:51,Violence against a woman,1,1,vit
+2025-03-21 10:41:57,Violence against a woman,1,1,vit
+2025-03-21 10:42:04,Violence against a woman,1,1,vit
+2025-03-21 10:44:33,Violence against a woman,1,1,vit
+2025-03-21 10:44:51,Violence against a woman,1,1,vit
+2025-03-21 10:45:03,Violence against a woman,1,1,vit
+2025-03-21 10:45:18,Violence against a woman,1,1,vit
+2025-03-21 10:45:33,Violence against a woman,1,1,vit
+2025-03-21 10:45:53,Violence against a woman,1,1,vit
+2025-03-21 10:46:59,Violence against a woman,1,1,vit
+2025-03-21 10:48:56,Violence against a woman,1,1,vit
+2025-03-21 10:55:18,Violence against a woman,1,1,vit
+2025-03-21 11:19:32,Violence against a woman,1,1,qc
+2025-03-21 11:19:39,Lone female detected,0,1,qc
+2025-03-21 11:19:42,Lone female detected,0,1,qc
+2025-03-21 11:19:46,Lone female detected,0,1,qc
+2025-03-21 11:19:49,Lone female detected,0,1,qc
+2025-03-21 11:19:53,Lone female detected,0,1,qc
+2025-03-21 11:19:58,Violence against a woman,3,1,qc
+2025-03-21 11:20:01,Violence against a woman,1,2,qc
+2025-03-21 11:20:05,Violence against a woman,2,1,qc
+2025-03-21 11:21:36,Violence against a woman,1,1,qc
+2025-03-21 11:21:36,Violence against a woman,1,1,qc
+2025-03-21 11:21:39,Lone female detected,0,1,qc
+2025-03-21 11:21:41,Lone female detected,0,1,qc
+2025-03-21 11:21:44,Lone female detected,0,1,qc
+2025-03-21 11:21:45,Lone female detected,0,1,qc
+2025-03-21 11:21:49,Lone female detected,0,1,qc
+2025-03-21 11:21:50,Lone female detected,0,1,qc
+2025-03-21 11:21:55,Lone female detected,0,1,qc
+2025-03-21 11:21:55,Lone female detected,0,1,qc
+2025-03-21 11:22:00,Violence against a woman,1,1,qc
+2025-03-21 11:22:02,Violence against a woman,1,2,qc
+2025-03-21 11:22:05,Violence against a woman,1,1,qc
+2025-03-21 11:41:31,Lone female detected,0,1,thg
+2025-03-21 11:41:37,Lone female detected,0,1,thg
+2025-03-21 11:42:00,Violence against a woman,1,1,thg
+2025-03-21 11:42:04,Violence against a woman,2,1,thg
+2025-03-21 11:56:09,Lone female detected,0,1,block b
+2025-03-21 11:56:19,Lone female detected,0,1,block b
+2025-03-21 11:56:23,Lone female detected,0,1,block b
+2025-03-21 11:56:28,Lone female detected,0,1,block b
+2025-03-21 11:56:33,Lone female detected,0,1,block b
+2025-03-21 11:56:37,Violence against a woman,2,1,block b
+2025-03-21 11:56:41,Violence against a woman,1,2,block b
+2025-03-21 12:00:34,Violence against a woman,3,1,block b
+2025-03-21 12:00:36,Lone female detected,2,1,block b
+2025-03-21 12:00:49,Violence against a woman,2,1,block b
+2025-03-21 12:00:51,Violence against a woman,2,1,block b
+2025-03-21 12:00:54,Violence against a woman,2,1,block b
+2025-03-21 12:00:56,Violence against a woman,2,1,block b
+2025-03-21 12:00:58,Violence against a woman,2,1,block b
+2025-03-21 12:01:00,Violence against a woman,2,1,block b
+2025-03-21 12:02:25,Violence against a woman,3,1,block b
+2025-03-21 12:02:50,Violence against a woman,3,1,block b
+2025-03-21 12:03:09,Violence against a woman,4,1,block b
+2025-03-21 12:03:29,Lone female detected,2,1,block b
+2025-03-21 12:03:40,Violence against a woman,3,1,block b
+2026-07-26 13:07:35,Violence against a woman,1,2,Sarita
+2026-07-26 13:07:42,Lone female detected,0,1,Sarita
+2026-07-26 13:08:37,Lone female detected,0,1,Sarita
+2026-07-26 13:08:52,Lone female detected,0,1,Sarita
+2026-07-26 13:08:58,Lone female detected,0,1,Sarita
+2026-07-26 13:09:05,Lone female detected,0,1,Sarita
+2026-07-26 13:09:13,Lone female detected,1,1,Sarita
+2026-07-26 13:36:11,Lone female detected,1,1,Arun
+2026-07-26 13:36:22,Violence against a woman,1,1,Arun
+2026-07-26 13:36:29,Lone female detected,0,1,Arun
+2026-07-26 13:36:36,Lone female detected,0,1,Arun
+2026-07-26 13:36:41,Lone female detected,0,1,Arun
+2026-07-26 13:36:47,Lone female detected,0,1,Arun
+2026-07-26 13:36:54,Lone female detected,0,1,Arun
+2026-07-26 13:36:59,Lone female detected,0,1,Arun
+2026-07-26 13:39:41,Lone female detected,0,1,Arun
+2026-07-26 13:39:46,Lone female detected,0,1,Arun
+2026-07-26 13:39:50,Lone female detected,0,1,Arun
+2026-07-26 13:40:19,Lone female detected,0,1,Arun
+2026-07-26 13:40:28,Lone female detected,0,1,Arun
+2026-07-26 13:40:33,Lone female detected,0,1,Arun
+2026-07-26 13:40:46,Violence against a woman,2,1,Arun
+2026-07-26 13:40:52,Lone female detected,0,1,Arun
+2026-07-26 13:41:05,Lone female detected,1,1,Arun
+2026-07-26 13:41:13,Lone female detected,0,1,Arun
+2026-07-26 13:41:20,Lone female detected,0,1,Arun
+2026-07-26 13:42:16,Violence against a woman,1,1,Arun
+2026-07-26 13:42:21,Violence against a woman,1,1,Arun
+2026-07-26 13:42:27,Violence against a woman,1,1,Arun
+2026-07-26 13:42:44,Violence against a woman,1,1,Arun
+2026-07-26 13:42:51,Violence against a woman,1,1,Arun
+2026-07-26 13:43:17,Violence against a woman,1,1,Arun
+2026-07-26 13:43:42,Violence against a woman,1,1,Arun
+2026-07-26 13:44:07,Violence against a woman,1,1,Arun
+2026-07-26 13:45:51,Violence against a woman,1,1,Arun
+2026-07-26 13:50:01,Violence against a woman,2,1,Baba
+2026-07-26 13:50:27,Violence against a woman,1,1,Baba
+2026-07-26 13:50:36,Lone female detected,0,1,Baba
+2026-07-26 13:51:00,Lone female detected,0,1,Baba
+2026-07-26 13:51:21,Lone female detected,0,1,Baba
+2026-07-26 13:51:57,Lone female detected,0,1,Baba
+2026-07-26 13:52:14,Violence against a woman,2,1,Baba
+2026-07-26 13:52:53,Lone female detected,0,1,Baba
+2026-07-26 13:53:06,Lone female detected,0,1,Baba
+2026-07-26 13:53:16,Lone female detected,0,1,Baba
+2026-07-26 13:53:31,Lone female detected,0,1,Baba
+2026-07-26 13:53:51,Lone female detected,0,1,Baba
+2026-07-26 13:59:59,Violence against a woman,2,1,ana
+2026-07-26 14:00:07,Lone female detected,0,1,ana
+2026-07-26 14:00:24,Lone female detected,0,1,ana
+2026-07-26 14:01:30,Lone female detected,0,1,ana
+2026-07-26 14:02:05,Lone female detected,0,1,ana
+2026-07-26 14:02:12,Violence against a woman,1,1,ana
+2026-07-26 14:02:49,Lone female detected,0,1,ana
+2026-07-26 15:01:29,Violence against a woman,2,1,Alll
+2026-07-26 15:01:35,Lone female detected,0,1,Alll
+2026-07-26 15:01:45,Lone female detected,0,1,Alll
+2026-07-26 15:02:03,Lone female detected,0,1,Alll
+2026-07-26 15:03:27,Lone female detected,0,1,Alll

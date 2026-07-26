@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+
+{% block title %}General Analytics - Abhayam{% endblock %}
+
+{% block extra_css %}
+<style>
+    .analytics-card {
+        transition: transform 0.3s;
+    }
+    .analytics-card:hover {
+        transform: translateY(-5px);
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-light">
+        <h4 class="mb-0">General Analytics</h4>
+    </div>
+    <div class="card-body">
+        {% if data_exists %}
+            <div class="row">
+                <!-- First row of charts -->
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">Incidents Over Time</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.incidents_over_time }}" class="img-fluid" alt="Incidents Over Time">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">Incidents Per Location</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.incidents_per_location }}" class="img-fluid" alt="Incidents Per Location">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">Gender Count Per Incident Type</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.gender_count }}" class="img-fluid" alt="Gender Count Per Incident Type">
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Second row of charts -->
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">Hourly Incident Frequency</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.hourly_incidents }}" class="img-fluid" alt="Hourly Incident Frequency">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">SOS Alerts Over Time</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.sos_alerts }}" class="img-fluid" alt="SOS Alerts Over Time">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="card analytics-card h-100">
+                        <div class="card-header">SOS Alerts Per Location</div>
+                        <div class="card-body">
+                            <img src="data:image/png;base64,{{ plots.sos_location }}" class="img-fluid" alt="SOS Alerts Per Location">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% else %}
+            <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle me-2"></i>Analytics data files not found. Please run the detection process to generate analytics data.
+            </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

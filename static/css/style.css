@@ -1,0 +1,142 @@
+/* Main Styles for Abhayam Women Safety Analytics */
+
+/* Global Styles */
+:root {
+    --primary-color: #4361ee;
+    --secondary-color: #3f37c9;
+    --accent-color: #4895ef;
+    --success-color: #4cc9f0;
+    --warning-color: #f72585;
+    --light-color: #f8f9fa;
+    --dark-color: #212529;
+  }
+  
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fb;
+    color: #333;
+  }
+  
+  /* Navbar Styling */
+  .navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-weight: 500;
+  }
+  
+  .nav-link.active {
+    color: var(--primary-color) !important;
+    font-weight: 600;
+  }
+  
+  /* Card Styling */
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Button Styling */
+  .btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+  }
+  
+  .btn-outline-primary {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+  }
+  
+  /* Alert Styling */
+  .alert {
+    border-radius: 8px;
+    border: none;
+  }
+  
+  /* Table Styling */
+  .table {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .table thead th {
+    background-color: var(--light-color);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Footer Styling */
+  .footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Custom Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+  
+  /* Dashboard Quick Navigation */
+  .btn-outline-primary i {
+    transition: transform 0.3s ease;
+  }
+  
+  .btn-outline-primary:hover i {
+    transform: scale(1.2);
+  }
+  
+  /* Image Gallery */
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  /* Analytics Charts */
+  .img-fluid {
+    border-radius: 8px;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .card-img-top {
+      height: 150px;
+    }
+  }
+  
+  

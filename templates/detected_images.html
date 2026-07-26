@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+
+{% block title %}Detected Images - Abhayam{% endblock %}
+
+{% block content %}
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-light d-flex justify-content-between align-items-center">
+        <h4 class="mb-0">Detected Images</h4>
+    </div>
+    <div class="card-body">
+        {% if not selected_location %}
+            <h5 class="mb-3">Select a Location</h5>
+            <div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
+                {% for folder in folders %}
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">{{ folder }}</h5>
+                            <a href="{{ url_for('detected_images', location=folder) }}" class="btn btn-outline-primary">View</a>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% elif not selected_subfolder %}
+            <div class="d-flex align-items-center mb-4">
+                <a href="{{ url_for('detected_images') }}" class="btn btn-outline-secondary me-3">
+                    <i class="fas fa-arrow-left"></i> Back
+                </a>
+                <h5 class="mb-0">Location: {{ selected_location }}</h5>
+            </div>
+            
+            <h5 class="mb-3">Select a Category</h5>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                {% for subfolder in subfolders %}
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">{{ subfolder }}</h5>
+                            <a href="{{ url_for('detected_images', location=selected_location, subfolder=subfolder) }}" class="btn btn-outline-primary">View</a>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="d-flex align-items-center mb-4">
+                <a href="{{ url_for('detected_images', location=selected_location) }}" class="btn btn-outline-secondary me-3">
+                    <i class="fas fa-arrow-left"></i> Back
+                </a>
+                <h5 class="mb-0">{{ selected_location }} / {{ selected_subfolder }}</h5>
+            </div>
+            
+            {% if images %}
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    {% for img in images %}
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="{{ url_for('static', filename=img) }}" class="card-img-top" alt="Detected image">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ img.split('/')[-1] }}</h5>
+                                <p class="card-text">
+                                    <small class="text-muted">Location: {{ selected_location }}</small><br>
+                                    <small class="text-muted">Category: {{ selected_subfolder }}</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <div class="alert alert-info">
+                    No images found in this category.
+                </div>
+            {% endif %}
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
