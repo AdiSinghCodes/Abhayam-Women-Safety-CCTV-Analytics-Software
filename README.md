@@ -177,6 +177,6 @@ Click the red **`[■ Stop Processing]`** button on the web dashboard to stop al
 ## 📧 Contact & Support
 
 For queries, contributions, or research collaborations, reach out to:
-* **Developer:** Aditya Pratap Singh
+* **Developer:** Aditya Pradeep Singh
 * **Email:** [adityapsingh565@gmail.com](mailto:adityapsingh565@gmail.com)
 * **GitHub:** [AdiSinghCodes](https://github.com/AdiSinghCodes)
